@@ -12,6 +12,9 @@ import ID from './pages/id/id';
 import NumberPlayers from './pages/numberPlayers/numberPlayers';
 import Auction from './pages/auction/auction';
 import AuctionResult from './pages/auctionResult/auctionResult';
+import Bidder from './pages/bidder/bidder';
+import Reform from './pages/reform/reform';
+import Selling from './pages/selling/selling';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -37,18 +40,20 @@ export default function Home() {
   const [debt, setDebt] = useState<number>(0)
   const [money, setMoney] = useState<number>(1000000)
   const [interest, setInterest] = useState<number>(0)
-  const [historicContext, setHistoricContext] = useState<string>("neutral")
+  const [historicContext, setHistoricContext] = useState<number>(0)
   const [id, setId] = useState<number>(0)
   const [numberPlayers, setNumberPlayers] = useState<number[]>([1, 2, 3, 4, 5])
   const [match, setMatch] = useState<number>(0)
   const [page, setPage] = useState<string>("select_journey")
   const [journey, setJourney] = useState<string>("")
-  const [playerWinner, setPlayerWinner] = useState<number|null>(null)
-  const [winningPrice, setWinningPrice] = useState<number|null>(null)
+  const [playerWinner, setPlayerWinner] = useState<number | null>(null)
+  const [winningPrice, setWinningPrice] = useState<number | null>(null)
+  const [reform, setReform] = useState<boolean>(false)
+  useEffect(() => console.log(historicContext), [historicContext])
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-start">
-      <Wallet debt={debt} money={money} pay={() => { }} ask={() => { }}></Wallet>
+      <Wallet debt={debt} money={money} pay={() => { }} ask={() => { }} defineGameMode={(gameMode) => setHistoricContext(gameMode)}></Wallet>
       {
         page === "select_journey" && (
           <SelectJourney
@@ -60,44 +65,87 @@ export default function Home() {
               setJourney("bidder")
               setPage("id")
             }}
-        />)
+          />)
       }
 
       {
         page === "id" && (
-          <ID saveID={(id) => setId(Number(id) + 1)} goToJourney={() =>setPage(journey)}/>
+          <ID saveID={(id) => setId(Number(id) + 1)} goToJourney={() => setPage(journey)} />
         )
       }
 
       {
         page === "auctioneer" && (
-          <NumberPlayers numberPlayers={(players) => {setNumberPlayers(players)}} goToAuction={() =>setPage("auction")}/>
+          <NumberPlayers numberPlayers={(players) => { setNumberPlayers(players) }} goToAuction={() => setPage("auction")} />
         )
       }
 
       {
         page === "auction" && (
-          <Auction numberPlayers={numberPlayers} id={id} goToAuctionResult={(player, price) => {
-            console.log(player);
-            
-            if (player && price) {
-              setPlayerWinner(player)
-              setWinningPrice(price)
-              setMoney((0.1*price)+money)
-              setPage("auction_result")
-            } else {
-              setPage("select_journey")
-            }
-          }} />
+          <Auction 
+            numberPlayers={numberPlayers} id={id} 
+            goToAuctionResult={(player, price) => {
+              console.log(player);
+
+              if (player && price) {
+                setPlayerWinner(player)
+                setWinningPrice(price)
+                setMoney((0.1 * price) + money)
+                setPage("auction_result")
+              } else {
+                setPage("select_journey")
+              }
+            }}
+            gameMode={historicContext} 
+          />
         )
       }
 
       {
         page === "auction_result" && (
           <AuctionResult playerWinner={playerWinner} winningPrice={winningPrice} goTo={() => {
-            setMatch(match+1)
+            setMatch(match + 1)
             setPage("select_journey")
-          }}/>
+          }} />
+        )
+      }
+
+
+      {
+        page === "bidder" && (
+          <Bidder id={id} gameMode={historicContext} goTo={(win, price) => {
+            if (win) {
+              setWinningPrice(price)
+              price && setMoney(money - price)
+              setPage("reform")
+            } else {
+              setPage("select_journey")
+            }
+          } }/>
+        )
+      }
+
+      {
+        page === "reform" && (
+          <Reform id={id} gameMode={historicContext} 
+            goTo={(reform, reformPrice) => {
+              setReform(reform)
+              reform && setMoney(money - reformPrice)
+              setPage("selling")
+          } }/>
+        )
+      }
+
+      {
+        page == "selling" && (
+          <Selling id={id} goTo={(win, price) =>{
+            if (win){
+              price && setMoney(money + price)
+              setPage("select_journey")
+            } else {
+              setPage("select_journey")
+            }
+          }} gameMode={historicContext} price={winningPrice} reform={reform}/>
         )
       }
     </main>

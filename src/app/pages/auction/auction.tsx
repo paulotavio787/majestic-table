@@ -1,18 +1,26 @@
 'use client'
 import Button from '@/app/components/button';
 import cards from '../../db/cards.json'
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 interface AuctionProps {
     id: number;
     numberPlayers: number[];
     goToAuctionResult: (playerWin: number|null, winningPrice: number|null) => void;
+    gameMode: number
 }
 
-export default function Auction ({id, numberPlayers, goToAuctionResult}: AuctionProps) {
+export default function Auction ({id, numberPlayers, goToAuctionResult, gameMode}: AuctionProps) {
     const card = cards.find((item) => item.id === id);
     const [auctionValue, setAuctionValue] = useState<any>(card?.auction_value)
     const [player, setPlayer] = useState<number|null>(null)
+    useEffect(() => {
+        if(gameMode == 1){
+            setAuctionValue(auctionValue * 0.8)
+        } else if (gameMode === 2) {
+            setAuctionValue(auctionValue *1.2)
+        }
+    }, [])
     return (
         <div className='flex w-full flex-grow flex-col items-center justify-around'>
             <h1 className='text-2xl'>$ {auctionValue}</h1>
