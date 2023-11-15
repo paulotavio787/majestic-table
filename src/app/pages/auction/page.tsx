@@ -1,3 +1,4 @@
+'use client'
 import Button from '@/app/components/button';
 import cards from '../../db/cards.json'
 import { useState } from 'react';

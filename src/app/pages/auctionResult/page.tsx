@@ -1,3 +1,4 @@
+'use client'
 import Button from "@/app/components/button";
 
 interface WinnerProps {
