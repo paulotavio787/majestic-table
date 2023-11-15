@@ -9,6 +9,9 @@ import Wallet from './components/Wallet';
 import SelectJourney from './pages/select_journey/page';
 import CustomInput from './components/CustomInput';
 import ID from './pages/id/page';
+import NumberPlayers from './pages/numberPlayers/page';
+import Auction from './pages/auction/page';
+import AuctionResult from './pages/auctionResult/page';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -32,14 +35,16 @@ interface Card {
 
 export default function Home() {
   const [debt, setDebt] = useState<number>(0)
-  const [money, setMoney] = useState<number>(100000)
+  const [money, setMoney] = useState<number>(1000000)
   const [interest, setInterest] = useState<number>(0)
   const [historicContext, setHistoricContext] = useState<string>("neutral")
   const [id, setId] = useState<number>(0)
-  const [numberPlayers, setNumberPlayers] = useState<number>(5)
-  const [match, setMatch] = useState<number>(1)
+  const [numberPlayers, setNumberPlayers] = useState<number[]>([1, 2, 3, 4, 5])
+  const [match, setMatch] = useState<number>(0)
   const [page, setPage] = useState<string>("select_journey")
   const [journey, setJourney] = useState<string>("")
+  const [playerWinner, setPlayerWinner] = useState<number|null>(null)
+  const [winningPrice, setWinningPrice] = useState<number|null>(null)
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-start">
@@ -60,10 +65,41 @@ export default function Home() {
 
       {
         page === "id" && (
-          <ID saveID={(id) => setId(parseInt(id) + 1)} goToJourney={() =>setPage(journey)}/>
+          <ID saveID={(id) => setId(Number(id) + 1)} goToJourney={() =>setPage(journey)}/>
         )
       }
 
+      {
+        page === "auctioneer" && (
+          <NumberPlayers numberPlayers={(players) => {setNumberPlayers(players)}} goToAuction={() =>setPage("auction")}/>
+        )
+      }
+
+      {
+        page === "auction" && (
+          <Auction numberPlayers={numberPlayers} id={id} goToAuctionResult={(player, price) => {
+            console.log(player);
+            
+            if (player && price) {
+              setPlayerWinner(player)
+              setWinningPrice(price)
+              setMoney((0.1*price)+money)
+              setPage("auction_result")
+            } else {
+              setPage("select_journey")
+            }
+          }} />
+        )
+      }
+
+      {
+        page === "auction_result" && (
+          <AuctionResult playerWinner={playerWinner} winningPrice={winningPrice} goTo={() => {
+            setMatch(match+1)
+            setPage("select_journey")
+          }}/>
+        )
+      }
     </main>
   );
 }
