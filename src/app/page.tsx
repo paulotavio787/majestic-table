@@ -6,12 +6,12 @@ import cards from './db/cards.json';
 import Button from './components/button';
 import icon from './icon.png'
 import Wallet from './components/Wallet';
-import SelectJourney from './pages/select_journey/page';
+import SelectJourney from './pages/select_journey/selectJourney';
 import CustomInput from './components/CustomInput';
-import ID from './pages/id/page';
-import NumberPlayers from './pages/numberPlayers/page';
-import Auction from './pages/auction/page';
-import AuctionResult from './pages/auctionResult/page';
+import ID from './pages/id/id';
+import NumberPlayers from './pages/numberPlayers/numberPlayers';
+import Auction from './pages/auction/auction';
+import AuctionResult from './pages/auctionResult/auctionResult';
 
 const inter = Inter({ subsets: ['latin'] });
 
