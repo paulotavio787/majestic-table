@@ -26,11 +26,11 @@ interface WalletProps {
             <div className="flex flex-row gap-5">
               <button 
                 className={`text-md ${gameMode == 1 && "bg-white"}`}
-                onClick={() => setGameMode(1)}
+                onClick={() => gameMode != 1 ? setGameMode(1) : setGameMode(0)}
               >🐻</button>
               <button 
                 className={`text-md ${gameMode == 2 && "bg-white"}`}
-                onClick={() => setGameMode(2)}  
+                onClick={() => gameMode != 2 ? setGameMode(2) : setGameMode(0)}  
               >🐂</button>
             </div>
             <a className="text-green-600 font-semibold" onClick={ask}>+ ${`${money}`}</a>
