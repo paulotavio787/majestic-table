@@ -28,7 +28,11 @@ export default function Selling ({id, goTo, gameMode=0, price, reform}: AuctionP
             setAuctionValue(auctionValue + card?.reform)
         }
 
-        price && setDice((price * 50)/auctionValue)
+        if (price) {
+            price > auctionValue && setDice(50-(((price/auctionValue)-1)*100))
+            price < auctionValue && setDice(50+((1-(price/auctionValue))*100))
+            price === auctionValue && setDice(50)
+        }
     }, [])
     return (
         <div className='flex w-full flex-grow h-full flex-col items-center justify-center px-3 py-10'>

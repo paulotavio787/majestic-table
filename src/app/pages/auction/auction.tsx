@@ -14,6 +14,7 @@ export default function Auction ({id, numberPlayers, goToAuctionResult, gameMode
     const card = cards.find((item) => item.id === id);
     const [auctionValue, setAuctionValue] = useState<any>(card?.auction_value)
     const [player, setPlayer] = useState<number|null>(null)
+    const [count, setCount] =useState<number>(0)
     useEffect(() => {
         if(gameMode == 1){
             setAuctionValue(auctionValue * 0.8)
@@ -32,8 +33,9 @@ export default function Auction ({id, numberPlayers, goToAuctionResult, gameMode
                             color="bg-[#ffca6e]"
                             textSize=""
                             onClick={() => {
+                                count === 1 && setAuctionValue(auctionValue + card?.increment)
+                                setCount(1)
                                 setPlayer(player)
-                                setAuctionValue(auctionValue + card?.increment)
                             }}
                             altCss="w-1/5 py-6"
                         >{player}</Button>

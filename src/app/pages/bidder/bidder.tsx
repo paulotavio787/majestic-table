@@ -13,6 +13,7 @@ interface AuctionProps {
 export default function Bidder ({id, goTo, gameMode=0}: AuctionProps) {
     const card = cards.find((item) => item.id === id);
     const [auctionValue, setAuctionValue] = useState<any>(card?.auction_value)
+    const [count, setCount] =useState<number>(0)
 
     useEffect(() => {
         if(gameMode == 1){
@@ -34,7 +35,7 @@ export default function Bidder ({id, goTo, gameMode=0}: AuctionProps) {
                     <p><span className='font-bold'>Mercado: </span>{card?.show_market_value ? `$ ${card.min_market_value}-${card.max_market_value}` : "Tiro cego"}</p>
                 </div>
                 <div className=' flex flex-row w-full justify-between items-center'>
-                    <p><span className='font-bold'>Área: </span>${card?.usableAreas}</p>
+                    <p><span className='font-bold'>Área: </span>{card?.usableAreas}m²</p>
                     <p><span className='font-bold'>Reforma: </span>${card?.reform}</p>
                 </div>
             </div>
@@ -43,7 +44,9 @@ export default function Bidder ({id, goTo, gameMode=0}: AuctionProps) {
                     color="bg-[#ffca6e]"
                     textSize=""
                     onClick={() => {
-                        setAuctionValue(auctionValue + card?.increment)
+                        
+                        count === 1 && setAuctionValue(auctionValue + card?.increment)
+                        setCount(1)
                     }}
                     altCss="w-full"
                 >
