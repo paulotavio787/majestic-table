@@ -15,7 +15,7 @@ function gerarArray(numero: number): number[] {
 export default function NumberPlayers({ goToAuction, numberPlayers }: NumberProps) {
     const [number, setNumber] = useState<number>()
     return (
-        <div className="flex flex-grow flex-col items-center py-20">
+        <div className="flex flex-grow w-full px-[20%] flex-col items-center py-20">
             <CustomInput
                 label="Numero de arrematantes"
                 minValue={5}

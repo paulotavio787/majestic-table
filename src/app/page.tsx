@@ -49,11 +49,27 @@ export default function Home() {
   const [playerWinner, setPlayerWinner] = useState<number | null>(null)
   const [winningPrice, setWinningPrice] = useState<number | null>(null)
   const [reform, setReform] = useState<boolean>(false)
-  useEffect(() => console.log(historicContext), [historicContext])
+  useEffect(() => {
+    if (debt <= money) {
+      setDebt(debt - money)
+      setMoney(money - debt)
+    }
+  }, [money])
+  useEffect(() => {
+    debt < 0 && setDebt(0)
+  }, [debt])
+  useEffect(() => {
+    if (money < 0) {
+      setDebt(debt + Math.abs(money))
+      setMoney(0)
+    }
+    match % 5 === 0 && match > 0 && setMoney(money + 100000)
+    setDebt(Math.round(debt * 1.1))
+  }, [match])
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-start">
-      <Wallet debt={debt} money={money} pay={() => { }} ask={() => { }} defineGameMode={(gameMode) => setHistoricContext(gameMode)}></Wallet>
+      <Wallet goTo={() => setPage("select_journey")} debt={debt} money={money} pay={() => { }} ask={() => { }} defineGameMode={(gameMode) => setHistoricContext(gameMode)}></Wallet>
       {
         page === "select_journey" && (
           <SelectJourney
@@ -119,6 +135,7 @@ export default function Home() {
               price && setMoney(money - price)
               setPage("reform")
             } else {
+              setMatch(match + 1)
               setPage("select_journey")
             }
           } }/>
@@ -139,6 +156,7 @@ export default function Home() {
       {
         page == "selling" && (
           <Selling id={id} goTo={(win, price) =>{
+            setMatch(match + 1)
             if (win){
               price && setMoney(money + price)
               setPage("select_journey")

@@ -11,7 +11,7 @@ interface SelectProps {
 export default function ID({ saveID, goToJourney }: SelectProps) {
     const [id, setId] = useState<string>(""); // Initialize id with an empty string
     return (
-        <div className="flex flex-grow flex-col items-center py-20">
+        <div className="flex flex-grow flex-col w-full items-center px-[20%] py-20">
             <CustomInput
                 label="ID"
                 value={id} // Pass the id state as the value

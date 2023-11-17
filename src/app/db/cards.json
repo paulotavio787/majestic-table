@@ -9,9 +9,10 @@
     "increment": 42500,
     "usableAreas": 28,
     "reform": 14000,
-    "min_market_value": 654500,
-    "max_market_value": 994499.9999999999,
-    "show_market_value": "True"
+    "min_market_value": 637500,
+    "max_market_value": 977499.9999999999,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 3,
@@ -23,9 +24,10 @@
     "increment": 375000,
     "usableAreas": 230,
     "reform": 115000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 5850000,
+    "max_market_value": 8850000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 4,
@@ -37,9 +39,10 @@
     "increment": 160000,
     "usableAreas": 197,
     "reform": 98500,
-    "min_market_value": 2464000,
-    "max_market_value": 3744000,
-    "show_market_value": "True"
+    "min_market_value": 2400000,
+    "max_market_value": 3679999.9999999995,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 5,
@@ -51,9 +54,10 @@
     "increment": 800000,
     "usableAreas": 343,
     "reform": 171500,
-    "min_market_value": 12480000,
-    "max_market_value": 18880000,
-    "show_market_value": "True"
+    "min_market_value": 12320000,
+    "max_market_value": 18720000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 6,
@@ -65,9 +69,10 @@
     "increment": 175000,
     "usableAreas": 196,
     "reform": 98000,
-    "min_market_value": 2695000,
-    "max_market_value": 4094999.9999999995,
-    "show_market_value": "True"
+    "min_market_value": 2730000,
+    "max_market_value": 4130000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 7,
@@ -81,7 +86,8 @@
     "reform": 56000,
     "min_market_value": 1524600,
     "max_market_value": 2316600,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 8,
@@ -95,7 +101,8 @@
     "reform": 45500,
     "min_market_value": 975590,
     "max_market_value": 1482390,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 9,
@@ -107,9 +114,10 @@
     "increment": 200000,
     "usableAreas": 157,
     "reform": 78500,
-    "min_market_value": 3120000,
-    "max_market_value": 4720000,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 10,
@@ -123,7 +131,8 @@
     "reform": 51500,
     "min_market_value": 939400,
     "max_market_value": 1427400,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 11,
@@ -137,7 +146,8 @@
     "reform": 19500,
     "min_market_value": 608300,
     "max_market_value": 924300,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 12,
@@ -149,9 +159,10 @@
     "increment": 204500,
     "usableAreas": 300,
     "reform": 150000,
-    "min_market_value": 3149300,
-    "max_market_value": 4785300,
-    "show_market_value": "True"
+    "min_market_value": 3067500,
+    "max_market_value": 4703500,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 13,
@@ -165,7 +176,8 @@
     "reform": 21000,
     "min_market_value": 472500,
     "max_market_value": 724500,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 14,
@@ -177,9 +189,10 @@
     "increment": 285000,
     "usableAreas": 246,
     "reform": 123000,
-    "min_market_value": 4446000,
-    "max_market_value": 6726000,
-    "show_market_value": "True"
+    "min_market_value": 4389000,
+    "max_market_value": 6669000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 15,
@@ -191,9 +204,10 @@
     "increment": 740000,
     "usableAreas": 335,
     "reform": 167500,
-    "min_market_value": 11544000,
-    "max_market_value": 17464000,
-    "show_market_value": "True"
+    "min_market_value": 11100000,
+    "max_market_value": 17020000,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 16,
@@ -205,9 +219,10 @@
     "increment": 70000,
     "usableAreas": 44,
     "reform": 22000,
-    "min_market_value": 1092000,
-    "max_market_value": 1652000,
-    "show_market_value": "True"
+    "min_market_value": 1050000,
+    "max_market_value": 1609999.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 17,
@@ -219,9 +234,10 @@
     "increment": 50150,
     "usableAreas": 34,
     "reform": 17000,
-    "min_market_value": 782340,
-    "max_market_value": 1183540,
-    "show_market_value": "True"
+    "min_market_value": 752250,
+    "max_market_value": 1153450,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 18,
@@ -233,9 +249,10 @@
     "increment": 45750,
     "usableAreas": 65,
     "reform": 32500,
-    "min_market_value": 686250,
-    "max_market_value": 1052250,
-    "show_market_value": "True"
+    "min_market_value": 704550,
+    "max_market_value": 1070550,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 19,
@@ -249,7 +266,8 @@
     "reform": 56000,
     "min_market_value": 1485000,
     "max_market_value": 2277000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 20,
@@ -261,9 +279,10 @@
     "increment": 80000,
     "usableAreas": 53,
     "reform": 26500,
-    "min_market_value": 1248000,
-    "max_market_value": 1888000,
-    "show_market_value": "True"
+    "min_market_value": 1232000,
+    "max_market_value": 1872000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 21,
@@ -275,9 +294,10 @@
     "increment": 89750,
     "usableAreas": 49,
     "reform": 24500,
-    "min_market_value": 1382150,
-    "max_market_value": 2100150,
-    "show_market_value": "True"
+    "min_market_value": 1400100,
+    "max_market_value": 2118100,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 22,
@@ -289,9 +309,10 @@
     "increment": 53000,
     "usableAreas": 36,
     "reform": 18000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 826800,
+    "max_market_value": 1250800,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 23,
@@ -305,7 +326,8 @@
     "reform": 23500,
     "min_market_value": 523600,
     "max_market_value": 795600,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 24,
@@ -317,9 +339,10 @@
     "increment": 210000,
     "usableAreas": 290,
     "reform": 145000,
-    "min_market_value": 3276000,
-    "max_market_value": 4956000,
-    "show_market_value": "True"
+    "min_market_value": 3150000,
+    "max_market_value": 4830000,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 25,
@@ -333,7 +356,8 @@
     "reform": 74500,
     "min_market_value": 1686750,
     "max_market_value": 2586350,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 26,
@@ -345,9 +369,10 @@
     "increment": 150000,
     "usableAreas": 91,
     "reform": 45500,
-    "min_market_value": 2250000,
-    "max_market_value": 3449999.9999999995,
-    "show_market_value": "True"
+    "min_market_value": 2340000,
+    "max_market_value": 3540000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 27,
@@ -359,9 +384,10 @@
     "increment": 1200,
     "usableAreas": 350,
     "reform": 175000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 18000,
+    "max_market_value": 27599.999999999996,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 28,
@@ -373,9 +399,10 @@
     "increment": 60000,
     "usableAreas": 128,
     "reform": 64000,
-    "min_market_value": 936000,
-    "max_market_value": 1416000,
-    "show_market_value": "True"
+    "min_market_value": 924000,
+    "max_market_value": 1404000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 29,
@@ -387,9 +414,10 @@
     "increment": 115000,
     "usableAreas": 134,
     "reform": 67000,
-    "min_market_value": 1771000,
-    "max_market_value": 2691000,
-    "show_market_value": "True"
+    "min_market_value": 1794000,
+    "max_market_value": 2714000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 30,
@@ -403,7 +431,8 @@
     "reform": 105000,
     "min_market_value": 3834600,
     "max_market_value": 5826600,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 31,
@@ -415,9 +444,10 @@
     "increment": 278500,
     "usableAreas": 185,
     "reform": 92500,
-    "min_market_value": 4177500,
-    "max_market_value": 6405499.999999999,
-    "show_market_value": "True"
+    "min_market_value": 4288900,
+    "max_market_value": 6516900,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 32,
@@ -431,7 +461,8 @@
     "reform": 40500,
     "min_market_value": 675000,
     "max_market_value": 1034999.9999999999,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 33,
@@ -445,7 +476,8 @@
     "reform": 108500,
     "min_market_value": 2310000,
     "max_market_value": 3510000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 34,
@@ -457,9 +489,10 @@
     "increment": 715500,
     "usableAreas": 288,
     "reform": 144000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 11018700,
+    "max_market_value": 16742699.999999998,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 35,
@@ -471,9 +504,10 @@
     "increment": 129100,
     "usableAreas": 142,
     "reform": 71000,
-    "min_market_value": 1988140,
-    "max_market_value": 3020940,
-    "show_market_value": "True"
+    "min_market_value": 2013960,
+    "max_market_value": 3046760,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 36,
@@ -485,9 +519,10 @@
     "increment": 302900,
     "usableAreas": 134,
     "reform": 67000,
-    "min_market_value": 4543500,
-    "max_market_value": 6966699.999999999,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 37,
@@ -499,9 +534,10 @@
     "increment": 74250,
     "usableAreas": 71,
     "reform": 35500,
-    "min_market_value": 1143450,
-    "max_market_value": 1737450,
-    "show_market_value": "True"
+    "min_market_value": 1113750,
+    "max_market_value": 1707749.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 38,
@@ -513,9 +549,10 @@
     "increment": 70700,
     "usableAreas": 110,
     "reform": 55000,
-    "min_market_value": 1088780,
-    "max_market_value": 1654380,
-    "show_market_value": "True"
+    "min_market_value": 1102920,
+    "max_market_value": 1668520,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 39,
@@ -527,9 +564,10 @@
     "increment": 77500,
     "usableAreas": 118,
     "reform": 59000,
-    "min_market_value": 1162500,
-    "max_market_value": 1782499.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1209000,
+    "max_market_value": 1829000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 40,
@@ -543,7 +581,8 @@
     "reform": 150000,
     "min_market_value": 2464000,
     "max_market_value": 3744000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 41,
@@ -555,9 +594,10 @@
     "increment": 87500,
     "usableAreas": 88,
     "reform": 44000,
-    "min_market_value": 1347500,
-    "max_market_value": 2047499.9999999998,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 42,
@@ -571,7 +611,8 @@
     "reform": 162500,
     "min_market_value": 10703000,
     "max_market_value": 16262999.999999998,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 43,
@@ -585,7 +626,8 @@
     "reform": 20000,
     "min_market_value": 623700,
     "max_market_value": 947700,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 44,
@@ -597,9 +639,10 @@
     "increment": 46550,
     "usableAreas": 47,
     "reform": 23500,
-    "min_market_value": 698250,
-    "max_market_value": 1070650,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 45,
@@ -611,9 +654,10 @@
     "increment": 92500,
     "usableAreas": 141,
     "reform": 70500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 1387500,
+    "max_market_value": 2127500,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 46,
@@ -627,7 +671,8 @@
     "reform": 60000,
     "min_market_value": 1385230,
     "max_market_value": 2104830,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 47,
@@ -639,9 +684,10 @@
     "increment": 41500,
     "usableAreas": 43,
     "reform": 21500,
-    "min_market_value": 639100,
-    "max_market_value": 971099.9999999999,
-    "show_market_value": "True"
+    "min_market_value": 647400,
+    "max_market_value": 979400,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 48,
@@ -653,9 +699,10 @@
     "increment": 70000,
     "usableAreas": 58,
     "reform": 29000,
-    "min_market_value": 1092000,
-    "max_market_value": 1652000,
-    "show_market_value": "True"
+    "min_market_value": 1078000,
+    "max_market_value": 1638000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 49,
@@ -667,9 +714,10 @@
     "increment": 81400,
     "usableAreas": 77,
     "reform": 38500,
-    "min_market_value": 1221000,
-    "max_market_value": 1872199.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1253560,
+    "max_market_value": 1904760,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 50,
@@ -681,9 +729,10 @@
     "increment": 79800,
     "usableAreas": 95,
     "reform": 47500,
-    "min_market_value": 1228920,
-    "max_market_value": 1867320,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 51,
@@ -695,9 +744,10 @@
     "increment": 55500,
     "usableAreas": 50,
     "reform": 25000,
-    "min_market_value": 854700,
-    "max_market_value": 1298700,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 52,
@@ -711,7 +761,8 @@
     "reform": 90000,
     "min_market_value": 2612220,
     "max_market_value": 3951820,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 53,
@@ -725,7 +776,8 @@
     "reform": 32500,
     "min_market_value": 483600,
     "max_market_value": 731600,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 54,
@@ -739,7 +791,8 @@
     "reform": 70000,
     "min_market_value": 1151150,
     "max_market_value": 1749150,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 55,
@@ -751,9 +804,10 @@
     "increment": 49500,
     "usableAreas": 141,
     "reform": 70500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 742500,
+    "max_market_value": 1138500,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 56,
@@ -765,9 +819,10 @@
     "increment": 130000,
     "usableAreas": 180,
     "reform": 90000,
-    "min_market_value": 2028000,
-    "max_market_value": 3068000,
-    "show_market_value": "True"
+    "min_market_value": 2002000,
+    "max_market_value": 3042000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 57,
@@ -781,7 +836,8 @@
     "reform": 100000,
     "min_market_value": 1731730,
     "max_market_value": 2631330,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 58,
@@ -793,9 +849,10 @@
     "increment": 37450,
     "usableAreas": 83,
     "reform": 41500,
-    "min_market_value": 576730,
-    "max_market_value": 876330,
-    "show_market_value": "True"
+    "min_market_value": 584220,
+    "max_market_value": 883820,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 59,
@@ -807,9 +864,10 @@
     "increment": 750,
     "usableAreas": 210,
     "reform": 105000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 11250,
+    "max_market_value": 17250,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 60,
@@ -821,9 +879,10 @@
     "increment": 34500,
     "usableAreas": 68,
     "reform": 34000,
-    "min_market_value": 517500,
-    "max_market_value": 793499.9999999999,
-    "show_market_value": "True"
+    "min_market_value": 531300,
+    "max_market_value": 807300,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 61,
@@ -837,7 +896,8 @@
     "reform": 59000,
     "min_market_value": 2212500,
     "max_market_value": 3392499.9999999995,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 62,
@@ -851,7 +911,8 @@
     "reform": 18500,
     "min_market_value": 529620,
     "max_market_value": 801220,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 63,
@@ -863,9 +924,10 @@
     "increment": 99950,
     "usableAreas": 89,
     "reform": 44500,
-    "min_market_value": 1539230,
-    "max_market_value": 2338830,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 64,
@@ -879,7 +941,8 @@
     "reform": 187000,
     "min_market_value": 2493660,
     "max_market_value": 3772460,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 65,
@@ -891,9 +954,10 @@
     "increment": 63950,
     "usableAreas": 86,
     "reform": 43000,
-    "min_market_value": 997620,
-    "max_market_value": 1509220,
-    "show_market_value": "True"
+    "min_market_value": 984830,
+    "max_market_value": 1496430,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 66,
@@ -905,9 +969,10 @@
     "increment": 22300,
     "usableAreas": 25,
     "reform": 12500,
-    "min_market_value": 343420,
-    "max_market_value": 521819.99999999994,
-    "show_market_value": "True"
+    "min_market_value": 334500,
+    "max_market_value": 512899.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 67,
@@ -919,9 +984,10 @@
     "increment": 57500,
     "usableAreas": 102,
     "reform": 51000,
-    "min_market_value": 885500,
-    "max_market_value": 1345500,
-    "show_market_value": "True"
+    "min_market_value": 862500,
+    "max_market_value": 1322500,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 68,
@@ -935,7 +1001,8 @@
     "reform": 42500,
     "min_market_value": 916300,
     "max_market_value": 1392300,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 69,
@@ -947,9 +1014,10 @@
     "increment": 309100,
     "usableAreas": 281,
     "reform": 140500,
-    "min_market_value": 4636500,
-    "max_market_value": 7109299.999999999,
-    "show_market_value": "True"
+    "min_market_value": 4760140,
+    "max_market_value": 7232940,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 70,
@@ -961,9 +1029,10 @@
     "increment": 37500,
     "usableAreas": 87,
     "reform": 43500,
-    "min_market_value": 585000,
-    "max_market_value": 885000,
-    "show_market_value": "True"
+    "min_market_value": 562500,
+    "max_market_value": 862499.9999999999,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 71,
@@ -977,7 +1046,8 @@
     "reform": 35000,
     "min_market_value": 1301300,
     "max_market_value": 1977299.9999999998,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 72,
@@ -989,9 +1059,10 @@
     "increment": 47500,
     "usableAreas": 114,
     "reform": 57000,
-    "min_market_value": 741000,
-    "max_market_value": 1121000,
-    "show_market_value": "True"
+    "min_market_value": 731500,
+    "max_market_value": 1111500,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 73,
@@ -1003,9 +1074,10 @@
     "increment": 87500,
     "usableAreas": 75,
     "reform": 37500,
-    "min_market_value": 1312500,
-    "max_market_value": 2012499.9999999998,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 74,
@@ -1017,9 +1089,10 @@
     "increment": 85000,
     "usableAreas": 135,
     "reform": 67500,
-    "min_market_value": 1309000,
-    "max_market_value": 1988999.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1275000,
+    "max_market_value": 1954999.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 75,
@@ -1031,9 +1104,10 @@
     "increment": 141500,
     "usableAreas": 110,
     "reform": 55000,
-    "min_market_value": 2179100,
-    "max_market_value": 3311100,
-    "show_market_value": "True"
+    "min_market_value": 2122500,
+    "max_market_value": 3254499.9999999995,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 76,
@@ -1045,9 +1119,10 @@
     "increment": 28000,
     "usableAreas": 62,
     "reform": 31000,
-    "min_market_value": 420000,
-    "max_market_value": 644000,
-    "show_market_value": "True"
+    "min_market_value": 436800,
+    "max_market_value": 660800,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 77,
@@ -1059,9 +1134,10 @@
     "increment": 94950,
     "usableAreas": 73,
     "reform": 36500,
-    "min_market_value": 1462230,
-    "max_market_value": 2221830,
-    "show_market_value": "True"
+    "min_market_value": 1481220,
+    "max_market_value": 2240820,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 78,
@@ -1073,9 +1149,10 @@
     "increment": 28500,
     "usableAreas": 40,
     "reform": 20000,
-    "min_market_value": 427500,
-    "max_market_value": 655500,
-    "show_market_value": "True"
+    "min_market_value": 438900,
+    "max_market_value": 666900,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 79,
@@ -1089,7 +1166,8 @@
     "reform": 15500,
     "min_market_value": 459750,
     "max_market_value": 704950,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 80,
@@ -1101,9 +1179,10 @@
     "increment": 49300,
     "usableAreas": 40,
     "reform": 20000,
-    "min_market_value": 759220,
-    "max_market_value": 1153620,
-    "show_market_value": "True"
+    "min_market_value": 739500,
+    "max_market_value": 1133900,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 81,
@@ -1117,7 +1196,8 @@
     "reform": 62500,
     "min_market_value": 1077230,
     "max_market_value": 1636830,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 82,
@@ -1129,9 +1209,10 @@
     "increment": 32500,
     "usableAreas": 86,
     "reform": 43000,
-    "min_market_value": 500500,
-    "max_market_value": 760500,
-    "show_market_value": "True"
+    "min_market_value": 487500,
+    "max_market_value": 747500,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 83,
@@ -1143,9 +1224,10 @@
     "increment": 76950,
     "usableAreas": 65,
     "reform": 32500,
-    "min_market_value": 1154250,
-    "max_market_value": 1769849.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1185030,
+    "max_market_value": 1800630,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 84,
@@ -1157,9 +1239,10 @@
     "increment": 79950,
     "usableAreas": 90,
     "reform": 45000,
-    "min_market_value": 1199250,
-    "max_market_value": 1838849.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1231230,
+    "max_market_value": 1870830,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 85,
@@ -1173,7 +1256,8 @@
     "reform": 35000,
     "min_market_value": 562500,
     "max_market_value": 862499.9999999999,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 86,
@@ -1185,9 +1269,10 @@
     "increment": 28000,
     "usableAreas": 42,
     "reform": 21000,
-    "min_market_value": 436800,
-    "max_market_value": 660800,
-    "show_market_value": "True"
+    "min_market_value": 431200,
+    "max_market_value": 655200,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 87,
@@ -1199,9 +1284,10 @@
     "increment": 90000,
     "usableAreas": 258,
     "reform": 129000,
-    "min_market_value": 1404000,
-    "max_market_value": 2124000,
-    "show_market_value": "True"
+    "min_market_value": 1350000,
+    "max_market_value": 2069999.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 88,
@@ -1213,9 +1299,10 @@
     "increment": 18650,
     "usableAreas": 46,
     "reform": 23000,
-    "min_market_value": 290940,
-    "max_market_value": 440140,
-    "show_market_value": "True"
+    "min_market_value": 279750,
+    "max_market_value": 428949.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 89,
@@ -1227,9 +1314,10 @@
     "increment": 16500,
     "usableAreas": 60,
     "reform": 30000,
-    "min_market_value": 257400,
-    "max_market_value": 389400,
-    "show_market_value": "True"
+    "min_market_value": 247500,
+    "max_market_value": 379499.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 90,
@@ -1241,9 +1329,10 @@
     "increment": 200000,
     "usableAreas": 592,
     "reform": 296000,
-    "min_market_value": 3120000,
-    "max_market_value": 4720000,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 91,
@@ -1255,9 +1344,10 @@
     "increment": 14750,
     "usableAreas": 46,
     "reform": 23000,
-    "min_market_value": 221250,
-    "max_market_value": 339250,
-    "show_market_value": "True"
+    "min_market_value": 230100,
+    "max_market_value": 348100,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 92,
@@ -1271,7 +1361,8 @@
     "reform": 45000,
     "min_market_value": 423500,
     "max_market_value": 643500,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 93,
@@ -1283,9 +1374,10 @@
     "increment": 23000,
     "usableAreas": 73,
     "reform": 36500,
-    "min_market_value": 358800,
-    "max_market_value": 542800,
-    "show_market_value": "True"
+    "min_market_value": 345000,
+    "max_market_value": 529000,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 94,
@@ -1297,9 +1389,10 @@
     "increment": 122500,
     "usableAreas": 223,
     "reform": 111500,
-    "min_market_value": 1837500,
-    "max_market_value": 2817500,
-    "show_market_value": "True"
+    "min_market_value": 1911000,
+    "max_market_value": 2891000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 95,
@@ -1313,7 +1406,8 @@
     "reform": 25000,
     "min_market_value": 770,
     "max_market_value": 1170,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 96,
@@ -1325,9 +1419,10 @@
     "increment": 21700,
     "usableAreas": 64,
     "reform": 32000,
-    "min_market_value": 325500,
-    "max_market_value": 499099.99999999994,
-    "show_market_value": "True"
+    "min_market_value": 338520,
+    "max_market_value": 512120,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 97,
@@ -1339,9 +1434,10 @@
     "increment": 17500,
     "usableAreas": 56,
     "reform": 28000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 262500,
+    "max_market_value": 402499.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 98,
@@ -1355,7 +1451,8 @@
     "reform": 35000,
     "min_market_value": 477000,
     "max_market_value": 731400,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 99,
@@ -1367,9 +1464,10 @@
     "increment": 28100,
     "usableAreas": 91,
     "reform": 45500,
-    "min_market_value": 432740,
-    "max_market_value": 657540,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 100,
@@ -1381,9 +1479,10 @@
     "increment": 30000,
     "usableAreas": 97,
     "reform": 48500,
-    "min_market_value": 450000,
-    "max_market_value": 690000,
-    "show_market_value": "True"
+    "min_market_value": 462000,
+    "max_market_value": 702000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 101,
@@ -1395,9 +1494,10 @@
     "increment": 67100,
     "usableAreas": 104,
     "reform": 52000,
-    "min_market_value": 1033340,
-    "max_market_value": 1570140,
-    "show_market_value": "True"
+    "min_market_value": 1006500,
+    "max_market_value": 1543299.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 102,
@@ -1409,9 +1509,10 @@
     "increment": 43000,
     "usableAreas": 132,
     "reform": 66000,
-    "min_market_value": 645000,
-    "max_market_value": 988999.9999999999,
-    "show_market_value": "True"
+    "min_market_value": 670800,
+    "max_market_value": 1014800,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 103,
@@ -1423,9 +1524,10 @@
     "increment": 90000,
     "usableAreas": 273,
     "reform": 136500,
-    "min_market_value": 1386000,
-    "max_market_value": 2106000,
-    "show_market_value": "True"
+    "min_market_value": 1404000,
+    "max_market_value": 2124000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 104,
@@ -1437,9 +1539,10 @@
     "increment": 45150,
     "usableAreas": 63,
     "reform": 31500,
-    "min_market_value": 704340,
-    "max_market_value": 1065540,
-    "show_market_value": "True"
+    "min_market_value": 695310,
+    "max_market_value": 1056510,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 105,
@@ -1451,9 +1554,10 @@
     "increment": 87500,
     "usableAreas": 290,
     "reform": 145000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 1312500,
+    "max_market_value": 2012499.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 106,
@@ -1465,9 +1569,10 @@
     "increment": 34150,
     "usableAreas": 112,
     "reform": 56000,
-    "min_market_value": 532740,
-    "max_market_value": 805940,
-    "show_market_value": "True"
+    "min_market_value": 525910,
+    "max_market_value": 799110,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 107,
@@ -1479,9 +1584,10 @@
     "increment": 37500,
     "usableAreas": 78,
     "reform": 39000,
-    "min_market_value": 562500,
-    "max_market_value": 862499.9999999999,
-    "show_market_value": "True"
+    "min_market_value": 577500,
+    "max_market_value": 877500,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 108,
@@ -1493,9 +1599,10 @@
     "increment": 34500,
     "usableAreas": 80,
     "reform": 40000,
-    "min_market_value": 538200,
-    "max_market_value": 814200,
-    "show_market_value": "True"
+    "min_market_value": 531300,
+    "max_market_value": 807300,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 109,
@@ -1509,7 +1616,8 @@
     "reform": 30000,
     "min_market_value": 462000,
     "max_market_value": 702000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 110,
@@ -1521,9 +1629,10 @@
     "increment": 22500,
     "usableAreas": 78,
     "reform": 39000,
-    "min_market_value": 346500,
-    "max_market_value": 526500,
-    "show_market_value": "True"
+    "min_market_value": 351000,
+    "max_market_value": 531000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 111,
@@ -1535,9 +1644,10 @@
     "increment": 10250,
     "usableAreas": 35,
     "reform": 17500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 157850,
+    "max_market_value": 239849.99999999997,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 112,
@@ -1549,9 +1659,10 @@
     "increment": 79950,
     "usableAreas": 133,
     "reform": 66500,
-    "min_market_value": 1247220,
-    "max_market_value": 1886820,
-    "show_market_value": "True"
+    "min_market_value": 1231230,
+    "max_market_value": 1870830,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 113,
@@ -1563,9 +1674,10 @@
     "increment": 15450,
     "usableAreas": 65,
     "reform": 32500,
-    "min_market_value": 237930,
-    "max_market_value": 361530,
-    "show_market_value": "True"
+    "min_market_value": 231750,
+    "max_market_value": 355350,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 114,
@@ -1579,7 +1691,8 @@
     "reform": 21000,
     "min_market_value": 281250,
     "max_market_value": 431249.99999999994,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 115,
@@ -1593,7 +1706,8 @@
     "reform": 40000,
     "min_market_value": 420000,
     "max_market_value": 644000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 116,
@@ -1607,7 +1721,8 @@
     "reform": 16000,
     "min_market_value": 292600,
     "max_market_value": 444600,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 117,
@@ -1619,9 +1734,10 @@
     "increment": 29750,
     "usableAreas": 70,
     "reform": 35000,
-    "min_market_value": 458150,
-    "max_market_value": 696150,
-    "show_market_value": "True"
+    "min_market_value": 464100,
+    "max_market_value": 702100,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 118,
@@ -1635,7 +1751,8 @@
     "reform": 103500,
     "min_market_value": 1716000,
     "max_market_value": 2596000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 119,
@@ -1647,9 +1764,10 @@
     "increment": 200,
     "usableAreas": 63,
     "reform": 31500,
-    "min_market_value": 3080,
-    "max_market_value": 4680,
-    "show_market_value": "True"
+    "min_market_value": 3120,
+    "max_market_value": 4720,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 120,
@@ -1663,7 +1781,8 @@
     "reform": 33000,
     "min_market_value": 608300,
     "max_market_value": 924300,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 121,
@@ -1675,9 +1794,10 @@
     "increment": 18000,
     "usableAreas": 38,
     "reform": 19000,
-    "min_market_value": 277200,
-    "max_market_value": 421200,
-    "show_market_value": "True"
+    "min_market_value": 270000,
+    "max_market_value": 413999.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 122,
@@ -1691,7 +1811,8 @@
     "reform": 44500,
     "min_market_value": 377300,
     "max_market_value": 573300,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 123,
@@ -1705,7 +1826,8 @@
     "reform": 26500,
     "min_market_value": 279510,
     "max_market_value": 424710,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 124,
@@ -1717,9 +1839,10 @@
     "increment": 19500,
     "usableAreas": 38,
     "reform": 19000,
-    "min_market_value": 300300,
-    "max_market_value": 456300,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 125,
@@ -1731,9 +1854,10 @@
     "increment": 410000,
     "usableAreas": 325,
     "reform": 162500,
-    "min_market_value": 6150000,
-    "max_market_value": 9430000,
-    "show_market_value": "True"
+    "min_market_value": 6314000,
+    "max_market_value": 9594000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 126,
@@ -1745,9 +1869,10 @@
     "increment": 95000,
     "usableAreas": 300,
     "reform": 150000,
-    "min_market_value": 1463000,
-    "max_market_value": 2223000,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 127,
@@ -1759,9 +1884,10 @@
     "increment": 23100,
     "usableAreas": 38,
     "reform": 19000,
-    "min_market_value": 355740,
-    "max_market_value": 540540,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 128,
@@ -1773,9 +1899,10 @@
     "increment": 34950,
     "usableAreas": 50,
     "reform": 25000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 538230,
+    "max_market_value": 817830,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 129,
@@ -1789,7 +1916,8 @@
     "reform": 57500,
     "min_market_value": 1365000,
     "max_market_value": 2065000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 130,
@@ -1801,9 +1929,10 @@
     "increment": 150,
     "usableAreas": 41,
     "reform": 20500,
-    "min_market_value": 2340,
-    "max_market_value": 3540,
-    "show_market_value": "True"
+    "min_market_value": 2310,
+    "max_market_value": 3510,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 131,
@@ -1817,7 +1946,8 @@
     "reform": 91500,
     "min_market_value": 1771000,
     "max_market_value": 2691000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 132,
@@ -1831,7 +1961,8 @@
     "reform": 15500,
     "min_market_value": 2340,
     "max_market_value": 3540,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 133,
@@ -1843,9 +1974,10 @@
     "increment": 62500,
     "usableAreas": 88,
     "reform": 44000,
-    "min_market_value": 962500,
-    "max_market_value": 1462500,
-    "show_market_value": "True"
+    "min_market_value": 975000,
+    "max_market_value": 1475000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 134,
@@ -1857,9 +1989,10 @@
     "increment": 121000,
     "usableAreas": 144,
     "reform": 72000,
-    "min_market_value": 1863400,
-    "max_market_value": 2831400,
-    "show_market_value": "True"
+    "min_market_value": 1815000,
+    "max_market_value": 2783000,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 135,
@@ -1871,9 +2004,10 @@
     "increment": 27200,
     "usableAreas": 35,
     "reform": 17500,
-    "min_market_value": 424320,
-    "max_market_value": 641920,
-    "show_market_value": "True"
+    "min_market_value": 408000,
+    "max_market_value": 625600,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 136,
@@ -1885,9 +2019,10 @@
     "increment": 23800,
     "usableAreas": 26,
     "reform": 13000,
-    "min_market_value": 366520,
-    "max_market_value": 556920,
-    "show_market_value": "True"
+    "min_market_value": 371280,
+    "max_market_value": 561680,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 137,
@@ -1899,9 +2034,10 @@
     "increment": 70000,
     "usableAreas": 114,
     "reform": 57000,
-    "min_market_value": 1050000,
-    "max_market_value": 1609999.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1078000,
+    "max_market_value": 1638000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 138,
@@ -1913,9 +2049,10 @@
     "increment": 44500,
     "usableAreas": 78,
     "reform": 39000,
-    "min_market_value": 694200,
-    "max_market_value": 1050200,
-    "show_market_value": "True"
+    "min_market_value": 685300,
+    "max_market_value": 1041299.9999999999,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 139,
@@ -1929,7 +2066,8 @@
     "reform": 137500,
     "min_market_value": 4774000,
     "max_market_value": 7254000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 140,
@@ -1941,9 +2079,10 @@
     "increment": 49500,
     "usableAreas": 98,
     "reform": 49000,
-    "min_market_value": 762300,
-    "max_market_value": 1158300,
-    "show_market_value": "True"
+    "min_market_value": 772200,
+    "max_market_value": 1168200,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 141,
@@ -1957,7 +2096,8 @@
     "reform": 150000,
     "min_market_value": 2808000,
     "max_market_value": 4248000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 142,
@@ -1971,7 +2111,8 @@
     "reform": 18000,
     "min_market_value": 500500,
     "max_market_value": 760500,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 143,
@@ -1983,9 +2124,10 @@
     "increment": 74450,
     "usableAreas": 70,
     "reform": 35000,
-    "min_market_value": 1146530,
-    "max_market_value": 1742130,
-    "show_market_value": "True"
+    "min_market_value": 1116750,
+    "max_market_value": 1712349.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 144,
@@ -1997,9 +2139,10 @@
     "increment": 37400,
     "usableAreas": 72,
     "reform": 36000,
-    "min_market_value": 561000,
-    "max_market_value": 860199.9999999999,
-    "show_market_value": "True"
+    "min_market_value": 583440,
+    "max_market_value": 882640,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 145,
@@ -2011,9 +2154,10 @@
     "increment": 125000,
     "usableAreas": 160,
     "reform": 80000,
-    "min_market_value": 1950000,
-    "max_market_value": 2950000,
-    "show_market_value": "True"
+    "min_market_value": 1925000,
+    "max_market_value": 2925000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 146,
@@ -2025,9 +2169,10 @@
     "increment": 28100,
     "usableAreas": 32,
     "reform": 16000,
-    "min_market_value": 432740,
-    "max_market_value": 657540,
-    "show_market_value": "True"
+    "min_market_value": 421500,
+    "max_market_value": 646300,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 147,
@@ -2039,9 +2184,10 @@
     "increment": 114050,
     "usableAreas": 144,
     "reform": 72000,
-    "min_market_value": 1779180,
-    "max_market_value": 2691580,
-    "show_market_value": "True"
+    "min_market_value": 1756370,
+    "max_market_value": 2668770,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 148,
@@ -2053,9 +2199,10 @@
     "increment": 50950,
     "usableAreas": 77,
     "reform": 38500,
-    "min_market_value": 764250,
-    "max_market_value": 1171850,
-    "show_market_value": "True"
+    "min_market_value": 784630,
+    "max_market_value": 1192230,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 149,
@@ -2067,9 +2214,10 @@
     "increment": 32500,
     "usableAreas": 67,
     "reform": 33500,
-    "min_market_value": 500500,
-    "max_market_value": 760500,
-    "show_market_value": "True"
+    "min_market_value": 507000,
+    "max_market_value": 767000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 150,
@@ -2083,7 +2231,8 @@
     "reform": 40500,
     "min_market_value": 607500,
     "max_market_value": 931499.9999999999,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 151,
@@ -2095,9 +2244,10 @@
     "increment": 64000,
     "usableAreas": 80,
     "reform": 40000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 960000,
+    "max_market_value": 1472000,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 152,
@@ -2109,9 +2259,10 @@
     "increment": 99450,
     "usableAreas": 120,
     "reform": 60000,
-    "min_market_value": 1551420,
-    "max_market_value": 2347020,
-    "show_market_value": "True"
+    "min_market_value": 1531530,
+    "max_market_value": 2327130,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 153,
@@ -2123,9 +2274,10 @@
     "increment": 125900,
     "usableAreas": 127,
     "reform": 63500,
-    "min_market_value": 1938860,
-    "max_market_value": 2946060,
-    "show_market_value": "True"
+    "min_market_value": 1964040,
+    "max_market_value": 2971240,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 154,
@@ -2137,9 +2289,10 @@
     "increment": 180000,
     "usableAreas": 300,
     "reform": 150000,
-    "min_market_value": 2808000,
-    "max_market_value": 4248000,
-    "show_market_value": "True"
+    "min_market_value": 2772000,
+    "max_market_value": 4212000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 155,
@@ -2151,9 +2304,10 @@
     "increment": 130000,
     "usableAreas": 187,
     "reform": 93500,
-    "min_market_value": 1950000,
-    "max_market_value": 2990000,
-    "show_market_value": "True"
+    "min_market_value": 2028000,
+    "max_market_value": 3068000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 156,
@@ -2165,9 +2319,10 @@
     "increment": 136550,
     "usableAreas": 163,
     "reform": 81500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 2130180,
+    "max_market_value": 3222580,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 157,
@@ -2179,9 +2334,10 @@
     "increment": 32500,
     "usableAreas": 57,
     "reform": 28500,
-    "min_market_value": 500500,
-    "max_market_value": 760500,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 158,
@@ -2193,9 +2349,10 @@
     "increment": 32500,
     "usableAreas": 41,
     "reform": 20500,
-    "min_market_value": 500500,
-    "max_market_value": 760500,
-    "show_market_value": "True"
+    "min_market_value": 487500,
+    "max_market_value": 747500,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 159,
@@ -2207,9 +2364,10 @@
     "increment": 28000,
     "usableAreas": 26,
     "reform": 13000,
-    "min_market_value": 420000,
-    "max_market_value": 644000,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 160,
@@ -2221,9 +2379,10 @@
     "increment": 30000,
     "usableAreas": 60,
     "reform": 30000,
-    "min_market_value": 450000,
-    "max_market_value": 690000,
-    "show_market_value": "True"
+    "min_market_value": 462000,
+    "max_market_value": 702000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 161,
@@ -2237,7 +2396,8 @@
     "reform": 52500,
     "min_market_value": 962500,
     "max_market_value": 1462500,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 162,
@@ -2249,9 +2409,10 @@
     "increment": 27250,
     "usableAreas": 56,
     "reform": 28000,
-    "min_market_value": 425100,
-    "max_market_value": 643100,
-    "show_market_value": "True"
+    "min_market_value": 419650,
+    "max_market_value": 637650,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 163,
@@ -2265,7 +2426,8 @@
     "reform": 15000,
     "min_market_value": 358500,
     "max_market_value": 549700,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 164,
@@ -2279,7 +2441,8 @@
     "reform": 45000,
     "min_market_value": 1088780,
     "max_market_value": 1654380,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 165,
@@ -2291,9 +2454,10 @@
     "increment": 235000,
     "usableAreas": 359,
     "reform": 179500,
-    "min_market_value": 3619000,
-    "max_market_value": 5499000,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 166,
@@ -2305,9 +2469,10 @@
     "increment": 95000,
     "usableAreas": 122,
     "reform": 61000,
-    "min_market_value": 1482000,
-    "max_market_value": 2242000,
-    "show_market_value": "True"
+    "min_market_value": 1463000,
+    "max_market_value": 2223000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 167,
@@ -2321,7 +2486,8 @@
     "reform": 78000,
     "min_market_value": 4081000,
     "max_market_value": 6201000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 168,
@@ -2333,9 +2499,10 @@
     "increment": 75900,
     "usableAreas": 92,
     "reform": 46000,
-    "min_market_value": 1138500,
-    "max_market_value": 1745699.9999999998,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 169,
@@ -2347,9 +2514,10 @@
     "increment": 22650,
     "usableAreas": 24,
     "reform": 12000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 353340,
+    "max_market_value": 534540,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 170,
@@ -2361,9 +2529,10 @@
     "increment": 22200,
     "usableAreas": 50,
     "reform": 25000,
-    "min_market_value": 341880,
-    "max_market_value": 519479.99999999994,
-    "show_market_value": "True"
+    "min_market_value": 333000,
+    "max_market_value": 510599.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 171,
@@ -2377,7 +2546,8 @@
     "reform": 37500,
     "min_market_value": 558250,
     "max_market_value": 848250,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 172,
@@ -2391,7 +2561,8 @@
     "reform": 43500,
     "min_market_value": 661440,
     "max_market_value": 1000640,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 173,
@@ -2405,7 +2576,8 @@
     "reform": 55000,
     "min_market_value": 539000,
     "max_market_value": 819000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 174,
@@ -2417,9 +2589,10 @@
     "increment": 69500,
     "usableAreas": 129,
     "reform": 64500,
-    "min_market_value": 1042500,
-    "max_market_value": 1598499.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1070300,
+    "max_market_value": 1626300,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 175,
@@ -2431,9 +2604,10 @@
     "increment": 36000,
     "usableAreas": 100,
     "reform": 50000,
-    "min_market_value": 554400,
-    "max_market_value": 842400,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 176,
@@ -2445,9 +2619,10 @@
     "increment": 43000,
     "usableAreas": 135,
     "reform": 67500,
-    "min_market_value": 662200,
-    "max_market_value": 1006199.9999999999,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 177,
@@ -2459,9 +2634,10 @@
     "increment": 82150,
     "usableAreas": 129,
     "reform": 64500,
-    "min_market_value": 1232250,
-    "max_market_value": 1889449.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1281540,
+    "max_market_value": 1938740,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 178,
@@ -2473,9 +2649,10 @@
     "increment": 14000,
     "usableAreas": 56,
     "reform": 28000,
-    "min_market_value": 210000,
-    "max_market_value": 322000,
-    "show_market_value": "True"
+    "min_market_value": 218400,
+    "max_market_value": 330400,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 179,
@@ -2487,9 +2664,10 @@
     "increment": 24000,
     "usableAreas": 65,
     "reform": 32500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 369600,
+    "max_market_value": 561600,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 180,
@@ -2501,9 +2679,10 @@
     "increment": 27800,
     "usableAreas": 67,
     "reform": 33500,
-    "min_market_value": 433680,
-    "max_market_value": 656080,
-    "show_market_value": "True"
+    "min_market_value": 428120,
+    "max_market_value": 650520,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 181,
@@ -2517,7 +2696,8 @@
     "reform": 41000,
     "min_market_value": 696850,
     "max_market_value": 1058850,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 182,
@@ -2531,7 +2711,8 @@
     "reform": 28500,
     "min_market_value": 350350,
     "max_market_value": 532350,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 183,
@@ -2543,9 +2724,10 @@
     "increment": 34500,
     "usableAreas": 75,
     "reform": 37500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 531300,
+    "max_market_value": 807300,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 184,
@@ -2557,9 +2739,10 @@
     "increment": 63250,
     "usableAreas": 126,
     "reform": 63000,
-    "min_market_value": 974050,
-    "max_market_value": 1480050,
-    "show_market_value": "True"
+    "min_market_value": 948750,
+    "max_market_value": 1454750,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 185,
@@ -2571,9 +2754,10 @@
     "increment": 72500,
     "usableAreas": 115,
     "reform": 57500,
-    "min_market_value": 1131000,
-    "max_market_value": 1711000,
-    "show_market_value": "True"
+    "min_market_value": 1087500,
+    "max_market_value": 1667499.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 186,
@@ -2585,9 +2769,10 @@
     "increment": 78000,
     "usableAreas": 177,
     "reform": 88500,
-    "min_market_value": 1170000,
-    "max_market_value": 1793999.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1216800,
+    "max_market_value": 1840800,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 187,
@@ -2599,9 +2784,10 @@
     "increment": 157950,
     "usableAreas": 320,
     "reform": 160000,
-    "min_market_value": 2432430,
-    "max_market_value": 3696030,
-    "show_market_value": "True"
+    "min_market_value": 2464020,
+    "max_market_value": 3727620,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 188,
@@ -2613,9 +2799,10 @@
     "increment": 79500,
     "usableAreas": 133,
     "reform": 66500,
-    "min_market_value": 1240200,
-    "max_market_value": 1876200,
-    "show_market_value": "True"
+    "min_market_value": 1224300,
+    "max_market_value": 1860300,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 189,
@@ -2627,9 +2814,10 @@
     "increment": 23000,
     "usableAreas": 51,
     "reform": 25500,
-    "min_market_value": 345000,
-    "max_market_value": 529000,
-    "show_market_value": "True"
+    "min_market_value": 354200,
+    "max_market_value": 538200,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 190,
@@ -2641,9 +2829,10 @@
     "increment": 27000,
     "usableAreas": 91,
     "reform": 45500,
-    "min_market_value": 421200,
-    "max_market_value": 637200,
-    "show_market_value": "True"
+    "min_market_value": 415800,
+    "max_market_value": 631800,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 191,
@@ -2655,9 +2844,10 @@
     "increment": 28400,
     "usableAreas": 65,
     "reform": 32500,
-    "min_market_value": 426000,
-    "max_market_value": 653200,
-    "show_market_value": "True"
+    "min_market_value": 437360,
+    "max_market_value": 664560,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 192,
@@ -2669,9 +2859,10 @@
     "increment": 83750,
     "usableAreas": 134,
     "reform": 67000,
-    "min_market_value": 1289750,
-    "max_market_value": 1959749.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1306500,
+    "max_market_value": 1976500,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 193,
@@ -2683,9 +2874,10 @@
     "increment": 38850,
     "usableAreas": 73,
     "reform": 36500,
-    "min_market_value": 606060,
-    "max_market_value": 916860,
-    "show_market_value": "True"
+    "min_market_value": 598290,
+    "max_market_value": 909090,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 194,
@@ -2699,7 +2891,8 @@
     "reform": 130000,
     "min_market_value": 1155000,
     "max_market_value": 1755000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 195,
@@ -2711,9 +2904,10 @@
     "increment": 34950,
     "usableAreas": 130,
     "reform": 65000,
-    "min_market_value": 538230,
-    "max_market_value": 817830,
-    "show_market_value": "True"
+    "min_market_value": 524250,
+    "max_market_value": 803849.9999999999,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 196,
@@ -2725,9 +2919,10 @@
     "increment": 24500,
     "usableAreas": 114,
     "reform": 57000,
-    "min_market_value": 377300,
-    "max_market_value": 573300,
-    "show_market_value": "True"
+    "min_market_value": 367500,
+    "max_market_value": 563500,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 197,
@@ -2739,9 +2934,10 @@
     "increment": 32000,
     "usableAreas": 180,
     "reform": 90000,
-    "min_market_value": 480000,
-    "max_market_value": 736000,
-    "show_market_value": "True"
+    "min_market_value": 499200,
+    "max_market_value": 755200,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 198,
@@ -2753,9 +2949,10 @@
     "increment": 20000,
     "usableAreas": 75,
     "reform": 37500,
-    "min_market_value": 300000,
-    "max_market_value": 459999.99999999994,
-    "show_market_value": "True"
+    "min_market_value": 308000,
+    "max_market_value": 468000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 199,
@@ -2767,9 +2964,10 @@
     "increment": 158250,
     "usableAreas": 320,
     "reform": 160000,
-    "min_market_value": 2437050,
-    "max_market_value": 3703050,
-    "show_market_value": "True"
+    "min_market_value": 2373750,
+    "max_market_value": 3639749.9999999995,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 200,
@@ -2781,9 +2979,10 @@
     "increment": 22400,
     "usableAreas": 54,
     "reform": 27000,
-    "min_market_value": 349440,
-    "max_market_value": 528640,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 201,
@@ -2797,7 +2996,8 @@
     "reform": 41000,
     "min_market_value": 685620,
     "max_market_value": 1037220,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 202,
@@ -2809,9 +3009,10 @@
     "increment": 20500,
     "usableAreas": 49,
     "reform": 24500,
-    "min_market_value": 315700,
-    "max_market_value": 479699.99999999994,
-    "show_market_value": "True"
+    "min_market_value": 307500,
+    "max_market_value": 471499.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 203,
@@ -2823,9 +3024,10 @@
     "increment": 31000,
     "usableAreas": 57,
     "reform": 28500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 465000,
+    "max_market_value": 713000,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 204,
@@ -2837,9 +3039,10 @@
     "increment": 25000,
     "usableAreas": 65,
     "reform": 32500,
-    "min_market_value": 385000,
-    "max_market_value": 585000,
-    "show_market_value": "True"
+    "min_market_value": 375000,
+    "max_market_value": 575000,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 205,
@@ -2853,7 +3056,8 @@
     "reform": 21000,
     "min_market_value": 234000,
     "max_market_value": 354000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 206,
@@ -2867,7 +3071,8 @@
     "reform": 26000,
     "min_market_value": 392700,
     "max_market_value": 596700,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 207,
@@ -2881,7 +3086,8 @@
     "reform": 42000,
     "min_market_value": "",
     "max_market_value": "",
-    "show_market_value": "False"
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 208,
@@ -2893,9 +3099,10 @@
     "increment": 121900,
     "usableAreas": 180,
     "reform": 90000,
-    "min_market_value": 1877260,
-    "max_market_value": 2852460,
-    "show_market_value": "True"
+    "min_market_value": 1828500,
+    "max_market_value": 2803700,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 209,
@@ -2907,9 +3114,10 @@
     "increment": 43200,
     "usableAreas": 135,
     "reform": 67500,
-    "min_market_value": 648000,
-    "max_market_value": 993599.9999999999,
-    "show_market_value": "True"
+    "min_market_value": 665280,
+    "max_market_value": 1010879.9999999999,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 210,
@@ -2921,9 +3129,10 @@
     "increment": 34500,
     "usableAreas": 82,
     "reform": 41000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 531300,
+    "max_market_value": 807300,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 211,
@@ -2935,9 +3144,10 @@
     "increment": 70000,
     "usableAreas": 132,
     "reform": 66000,
-    "min_market_value": 1050000,
-    "max_market_value": 1609999.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1078000,
+    "max_market_value": 1638000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 212,
@@ -2949,9 +3159,10 @@
     "increment": 81000,
     "usableAreas": 320,
     "reform": 160000,
-    "min_market_value": 1039500,
-    "max_market_value": 1579500,
-    "show_market_value": "True"
+    "min_market_value": 1053000,
+    "max_market_value": 1593000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 213,
@@ -2963,9 +3174,10 @@
     "increment": 31800,
     "usableAreas": 55,
     "reform": 27500,
-    "min_market_value": 408100,
-    "max_market_value": 620100,
-    "show_market_value": "True"
+    "min_market_value": 413400,
+    "max_market_value": 625400,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 214,
@@ -2979,7 +3191,8 @@
     "reform": 34500,
     "min_market_value": 847000,
     "max_market_value": 1287000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 215,
@@ -2991,9 +3204,10 @@
     "increment": 90600,
     "usableAreas": 125,
     "reform": 62500,
-    "min_market_value": 1162700,
-    "max_market_value": 1766700,
-    "show_market_value": "True"
+    "min_market_value": 1177800,
+    "max_market_value": 1781800,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 216,
@@ -3005,9 +3219,10 @@
     "increment": 33000,
     "usableAreas": 59,
     "reform": 29500,
-    "min_market_value": 412500,
-    "max_market_value": 632500,
-    "show_market_value": "True"
+    "min_market_value": 423500,
+    "max_market_value": 643500,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 217,
@@ -3019,9 +3234,10 @@
     "increment": 30600,
     "usableAreas": 60,
     "reform": 30000,
-    "min_market_value": 397800,
-    "max_market_value": 601800,
-    "show_market_value": "True"
+    "min_market_value": 392700,
+    "max_market_value": 596700,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 218,
@@ -3033,9 +3249,10 @@
     "increment": 26400,
     "usableAreas": 25,
     "reform": 12500,
-    "min_market_value": 338800,
-    "max_market_value": 514799.99999999994,
-    "show_market_value": "True"
+    "min_market_value": 343200,
+    "max_market_value": 519200,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 219,
@@ -3049,7 +3266,8 @@
     "reform": 33500,
     "min_market_value": 1160390,
     "max_market_value": 1763190,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 220,
@@ -3061,9 +3279,10 @@
     "increment": 84000,
     "usableAreas": 122,
     "reform": 61000,
-    "min_market_value": 1092000,
-    "max_market_value": 1652000,
-    "show_market_value": "True"
+    "min_market_value": 1050000,
+    "max_market_value": 1609999.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 221,
@@ -3075,9 +3294,10 @@
     "increment": 39000,
     "usableAreas": 32,
     "reform": 16000,
-    "min_market_value": 507000,
-    "max_market_value": 767000,
-    "show_market_value": "True"
+    "min_market_value": 500500,
+    "max_market_value": 760500,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 222,
@@ -3089,9 +3309,10 @@
     "increment": 34800,
     "usableAreas": 102,
     "reform": 51000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 446600,
+    "max_market_value": 678600,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 223,
@@ -3103,9 +3324,10 @@
     "increment": 358800,
     "usableAreas": 250,
     "reform": 125000,
-    "min_market_value": 4664400,
-    "max_market_value": 7056400,
-    "show_market_value": "True"
+    "min_market_value": 4604600,
+    "max_market_value": 6996600,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 224,
@@ -3117,9 +3339,10 @@
     "increment": 420,
     "usableAreas": 185,
     "reform": 92500,
-    "min_market_value": 5250,
-    "max_market_value": 8049.999999999999,
-    "show_market_value": "True"
+    "min_market_value": 5460,
+    "max_market_value": 8260,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 225,
@@ -3133,7 +3356,8 @@
     "reform": 160000,
     "min_market_value": 1716000,
     "max_market_value": 2596000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 226,
@@ -3145,9 +3369,10 @@
     "increment": 101400,
     "usableAreas": 277,
     "reform": 138500,
-    "min_market_value": 1301300,
-    "max_market_value": 1977299.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1318200,
+    "max_market_value": 1994200,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 227,
@@ -3161,7 +3386,8 @@
     "reform": 17500,
     "min_market_value": 323400,
     "max_market_value": 491399.99999999994,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 228,
@@ -3175,7 +3401,8 @@
     "reform": 94500,
     "min_market_value": 1275000,
     "max_market_value": 1954999.9999999998,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 229,
@@ -3187,9 +3414,10 @@
     "increment": 19800,
     "usableAreas": 60,
     "reform": 30000,
-    "min_market_value": 257400,
-    "max_market_value": 389400,
-    "show_market_value": "True"
+    "min_market_value": 247500,
+    "max_market_value": 379499.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 230,
@@ -3201,9 +3429,10 @@
     "increment": 75000,
     "usableAreas": 70,
     "reform": 35000,
-    "min_market_value": 962500,
-    "max_market_value": 1462500,
-    "show_market_value": "True"
+    "min_market_value": 975000,
+    "max_market_value": 1475000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 231,
@@ -3215,9 +3444,10 @@
     "increment": 47880,
     "usableAreas": 93,
     "reform": 46500,
-    "min_market_value": 614460,
-    "max_market_value": 933660,
-    "show_market_value": "True"
+    "min_market_value": 598500,
+    "max_market_value": 917699.9999999999,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 232,
@@ -3231,7 +3461,8 @@
     "reform": 25000,
     "min_market_value": 739200,
     "max_market_value": 1123200,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 233,
@@ -3243,9 +3474,10 @@
     "increment": 72000,
     "usableAreas": 127,
     "reform": 63500,
-    "min_market_value": 936000,
-    "max_market_value": 1416000,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 234,
@@ -3257,9 +3489,10 @@
     "increment": 178800,
     "usableAreas": 160,
     "reform": 80000,
-    "min_market_value": 2324400,
-    "max_market_value": 3516400,
-    "show_market_value": "True"
+    "min_market_value": 2294600,
+    "max_market_value": 3486600,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 235,
@@ -3271,9 +3504,10 @@
     "increment": 100500,
     "usableAreas": 96,
     "reform": 48000,
-    "min_market_value": 1306500,
-    "max_market_value": 1976500,
-    "show_market_value": "True"
+    "min_market_value": 1289750,
+    "max_market_value": 1959749.9999999998,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 236,
@@ -3285,9 +3519,10 @@
     "increment": 37020,
     "usableAreas": 37,
     "reform": 18500,
-    "min_market_value": 475090,
-    "max_market_value": 721890,
-    "show_market_value": "True"
+    "min_market_value": 481260,
+    "max_market_value": 728060,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 237,
@@ -3299,9 +3534,10 @@
     "increment": 36000,
     "usableAreas": 48,
     "reform": 24000,
-    "min_market_value": 468000,
-    "max_market_value": 708000,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 238,
@@ -3313,9 +3549,10 @@
     "increment": 38760,
     "usableAreas": 47,
     "reform": 23500,
-    "min_market_value": 497420,
-    "max_market_value": 755820,
-    "show_market_value": "True"
+    "min_market_value": 484500,
+    "max_market_value": 742900,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 239,
@@ -3327,9 +3564,10 @@
     "increment": 420000,
     "usableAreas": 482,
     "reform": 241000,
-    "min_market_value": 5250000,
-    "max_market_value": 8049999.999999999,
-    "show_market_value": "True"
+    "min_market_value": 5390000,
+    "max_market_value": 8189999.999999999,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 240,
@@ -3341,9 +3579,10 @@
     "increment": 90000,
     "usableAreas": 120,
     "reform": 60000,
-    "min_market_value": 1170000,
-    "max_market_value": 1770000,
-    "show_market_value": "True"
+    "min_market_value": 1155000,
+    "max_market_value": 1755000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 241,
@@ -3355,9 +3594,10 @@
     "increment": 174000,
     "usableAreas": 117,
     "reform": 58500,
-    "min_market_value": 2175000,
-    "max_market_value": 3334999.9999999995,
-    "show_market_value": "True"
+    "min_market_value": 2233000,
+    "max_market_value": 3393000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 242,
@@ -3371,7 +3611,8 @@
     "reform": 38500,
     "min_market_value": 1653600,
     "max_market_value": 2501600,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 243,
@@ -3383,9 +3624,10 @@
     "increment": 587960,
     "usableAreas": 335,
     "reform": 167500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 11465220,
+    "max_market_value": 17344820,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 244,
@@ -3397,9 +3639,10 @@
     "increment": 108800,
     "usableAreas": 231,
     "reform": 115500,
-    "min_market_value": 2040000,
-    "max_market_value": 3127999.9999999995,
-    "show_market_value": "True"
+    "min_market_value": 2121600,
+    "max_market_value": 3209600,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 245,
@@ -3413,7 +3656,8 @@
     "reform": 64500,
     "min_market_value": 1035650,
     "max_market_value": 1573650,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 246,
@@ -3425,9 +3669,10 @@
     "increment": 507200,
     "usableAreas": 209,
     "reform": 104500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 9763600,
+    "max_market_value": 14835600,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 247,
@@ -3439,9 +3684,10 @@
     "increment": 119600,
     "usableAreas": 189,
     "reform": 94500,
-    "min_market_value": 2242500,
-    "max_market_value": 3438499.9999999995,
-    "show_market_value": "True"
+    "min_market_value": 2302300,
+    "max_market_value": 3498300,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 248,
@@ -3453,9 +3699,10 @@
     "increment": 57600,
     "usableAreas": 72,
     "reform": 36000,
-    "min_market_value": 1080000,
-    "max_market_value": 1655999.9999999998,
-    "show_market_value": "True"
+    "min_market_value": 1108800,
+    "max_market_value": 1684800,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 249,
@@ -3469,7 +3716,8 @@
     "reform": 58500,
     "min_market_value": 1771000,
     "max_market_value": 2691000,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 250,
@@ -3481,9 +3729,10 @@
     "increment": 47400,
     "usableAreas": 95,
     "reform": 47500,
-    "min_market_value": 924300,
-    "max_market_value": 1398300,
-    "show_market_value": "True"
+    "min_market_value": 888750,
+    "max_market_value": 1362750,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 251,
@@ -3495,9 +3744,10 @@
     "increment": 44800,
     "usableAreas": 96,
     "reform": 48000,
-    "min_market_value": 862400,
-    "max_market_value": 1310400,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 252,
@@ -3509,9 +3759,10 @@
     "increment": 16400,
     "usableAreas": 42,
     "reform": 21000,
-    "min_market_value": 307500,
-    "max_market_value": 471499.99999999994,
-    "show_market_value": "True"
+    "min_market_value": 319800,
+    "max_market_value": 483800,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 253,
@@ -3523,9 +3774,10 @@
     "increment": 32000,
     "usableAreas": 80,
     "reform": 40000,
-    "min_market_value": 616000,
-    "max_market_value": 936000,
-    "show_market_value": "True"
+    "min_market_value": 624000,
+    "max_market_value": 944000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 254,
@@ -3537,9 +3789,10 @@
     "increment": 28800,
     "usableAreas": 106,
     "reform": 53000,
-    "min_market_value": 561600,
-    "max_market_value": 849600,
-    "show_market_value": "True"
+    "min_market_value": 554400,
+    "max_market_value": 842400,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 255,
@@ -3551,9 +3804,10 @@
     "increment": 115600,
     "usableAreas": 256,
     "reform": 128000,
-    "min_market_value": 2225300,
-    "max_market_value": 3381300,
-    "show_market_value": "True"
+    "min_market_value": 2254200,
+    "max_market_value": 3410200,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 256,
@@ -3565,9 +3819,10 @@
     "increment": 52000,
     "usableAreas": 94,
     "reform": 47000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 1001000,
+    "max_market_value": 1521000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 257,
@@ -3579,9 +3834,10 @@
     "increment": 18600,
     "usableAreas": 80,
     "reform": 40000,
-    "min_market_value": 348750,
-    "max_market_value": 534750,
-    "show_market_value": "True"
+    "min_market_value": 358050,
+    "max_market_value": 544050,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 258,
@@ -3593,9 +3849,10 @@
     "increment": 68000,
     "usableAreas": 106,
     "reform": 53000,
-    "min_market_value": 1275000,
-    "max_market_value": 1954999.9999999998,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 259,
@@ -3607,9 +3864,10 @@
     "increment": 17880,
     "usableAreas": 80,
     "reform": 40000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 335250,
+    "max_market_value": 514049.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 260,
@@ -3621,9 +3879,10 @@
     "increment": 79960,
     "usableAreas": 106,
     "reform": 53000,
-    "min_market_value": 1499250,
-    "max_market_value": 2298850,
-    "show_market_value": "True"
+    "min_market_value": 1539230,
+    "max_market_value": 2338830,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 261,
@@ -3635,9 +3894,10 @@
     "increment": 20800,
     "usableAreas": 27,
     "reform": 13500,
-    "min_market_value": 400400,
-    "max_market_value": 608400,
-    "show_market_value": "True"
+    "min_market_value": 405600,
+    "max_market_value": 613600,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 262,
@@ -3649,9 +3909,10 @@
     "increment": 43560,
     "usableAreas": 71,
     "reform": 35500,
-    "min_market_value": 816750,
-    "max_market_value": 1252350,
-    "show_market_value": "True"
+    "min_market_value": 838530,
+    "max_market_value": 1274130,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 263,
@@ -3663,9 +3924,10 @@
     "increment": 44480,
     "usableAreas": 83,
     "reform": 41500,
-    "min_market_value": 856240,
-    "max_market_value": 1301040,
-    "show_market_value": "True"
+    "min_market_value": 834000,
+    "max_market_value": 1278800,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 264,
@@ -3679,7 +3941,8 @@
     "reform": 130500,
     "min_market_value": 4500000,
     "max_market_value": 6899999.999999999,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 265,
@@ -3691,9 +3954,10 @@
     "increment": 37600,
     "usableAreas": 66,
     "reform": 33000,
-    "min_market_value": 723800,
-    "max_market_value": 1099800,
-    "show_market_value": "True"
+    "min_market_value": 733200,
+    "max_market_value": 1109200,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 266,
@@ -3707,7 +3971,8 @@
     "reform": 32500,
     "min_market_value": 330000,
     "max_market_value": 505999.99999999994,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 267,
@@ -3721,7 +3986,8 @@
     "reform": 60500,
     "min_market_value": 962500,
     "max_market_value": 1462500,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 268,
@@ -3735,7 +4001,8 @@
     "reform": 37000,
     "min_market_value": 464100,
     "max_market_value": 702100,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 269,
@@ -3747,9 +4014,10 @@
     "increment": 19720,
     "usableAreas": 50,
     "reform": 25000,
-    "min_market_value": 369750,
-    "max_market_value": 566950,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 270,
@@ -3761,9 +4029,10 @@
     "increment": 23800,
     "usableAreas": 102,
     "reform": 51000,
-    "min_market_value": 464100,
-    "max_market_value": 702100,
-    "show_market_value": "True"
+    "min_market_value": 458150,
+    "max_market_value": 696150,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 271,
@@ -3775,9 +4044,10 @@
     "increment": 11600,
     "usableAreas": 56,
     "reform": 28000,
-    "min_market_value": 226200,
-    "max_market_value": 342200,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 272,
@@ -3789,9 +4059,10 @@
     "increment": 16400,
     "usableAreas": 66,
     "reform": 33000,
-    "min_market_value": 639600,
-    "max_market_value": 967600,
-    "show_market_value": "True"
+    "min_market_value": 631400,
+    "max_market_value": 959399.9999999999,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 273,
@@ -3803,9 +4074,10 @@
     "increment": 62000,
     "usableAreas": 230,
     "reform": 115000,
-    "min_market_value": 2418000,
-    "max_market_value": 3658000,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 274,
@@ -3819,7 +4091,8 @@
     "reform": 31000,
     "min_market_value": 1309000,
     "max_market_value": 1988999.9999999998,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 275,
@@ -3831,9 +4104,10 @@
     "increment": 32000,
     "usableAreas": 115,
     "reform": 57500,
-    "min_market_value": 1200000,
-    "max_market_value": 1839999.9999999998,
-    "show_market_value": "True"
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 276,
@@ -3845,9 +4119,10 @@
     "increment": 26000,
     "usableAreas": 107,
     "reform": 53500,
-    "min_market_value": 975000,
-    "max_market_value": 1495000,
-    "show_market_value": "True"
+    "min_market_value": 1014000,
+    "max_market_value": 1534000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 277,
@@ -3859,9 +4134,10 @@
     "increment": 14800,
     "usableAreas": 45,
     "reform": 22500,
-    "min_market_value": 577200,
-    "max_market_value": 873200,
-    "show_market_value": "True"
+    "min_market_value": 555000,
+    "max_market_value": 850999.9999999999,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 278,
@@ -3873,9 +4149,10 @@
     "increment": 39000,
     "usableAreas": 155,
     "reform": 77500,
-    "min_market_value": 1462500,
-    "max_market_value": 2242500,
-    "show_market_value": "True"
+    "min_market_value": 1521000,
+    "max_market_value": 2301000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 279,
@@ -3887,9 +4164,10 @@
     "increment": 18800,
     "usableAreas": 94,
     "reform": 47000,
-    "min_market_value": 733200,
-    "max_market_value": 1109200,
-    "show_market_value": "True"
+    "min_market_value": 723800,
+    "max_market_value": 1099800,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 280,
@@ -3901,9 +4179,10 @@
     "increment": 38000,
     "usableAreas": 87,
     "reform": 43500,
-    "min_market_value": 1482000,
-    "max_market_value": 2242000,
-    "show_market_value": "True"
+    "min_market_value": 1463000,
+    "max_market_value": 2223000,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 281,
@@ -3917,7 +4196,8 @@
     "reform": 36000,
     "min_market_value": 1116500,
     "max_market_value": 1696500,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 282,
@@ -3929,9 +4209,10 @@
     "increment": 9000,
     "usableAreas": 24,
     "reform": 12000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 346500,
+    "max_market_value": 526500,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 283,
@@ -3943,9 +4224,10 @@
     "increment": 36900,
     "usableAreas": 97,
     "reform": 48500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 1420650,
+    "max_market_value": 2158650,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 284,
@@ -3957,9 +4239,10 @@
     "increment": 11200,
     "usableAreas": 65,
     "reform": 32500,
-    "min_market_value": 420000,
-    "max_market_value": 644000,
-    "show_market_value": "True"
+    "min_market_value": 431200,
+    "max_market_value": 655200,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 285,
@@ -3973,7 +4256,8 @@
     "reform": 48500,
     "min_market_value": 614460,
     "max_market_value": 933660,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 286,
@@ -3985,9 +4269,10 @@
     "increment": 8600,
     "usableAreas": 42,
     "reform": 21000,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 331100,
+    "max_market_value": 503099.99999999994,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 287,
@@ -4001,7 +4286,8 @@
     "reform": 50000,
     "min_market_value": 654500,
     "max_market_value": 994499.9999999999,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 288,
@@ -4013,9 +4299,10 @@
     "increment": 18000,
     "usableAreas": 95,
     "reform": 47500,
-    "min_market_value": 693000,
-    "max_market_value": 1053000,
-    "show_market_value": "True"
+    "min_market_value": 702000,
+    "max_market_value": 1062000,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 289,
@@ -4027,9 +4314,10 @@
     "increment": 11600,
     "usableAreas": 58,
     "reform": 29000,
-    "min_market_value": 452400,
-    "max_market_value": 684400,
-    "show_market_value": "True"
+    "min_market_value": 446600,
+    "max_market_value": 678600,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 290,
@@ -4043,7 +4331,8 @@
     "reform": 150000,
     "min_market_value": 14250,
     "max_market_value": 21850,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 291,
@@ -4055,9 +4344,10 @@
     "increment": 48060,
     "usableAreas": 175,
     "reform": 87500,
-    "min_market_value": 1802250,
-    "max_market_value": 2763450,
-    "show_market_value": "True"
+    "min_market_value": 1874340,
+    "max_market_value": 2835540,
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 292,
@@ -4071,7 +4361,8 @@
     "reform": 55500,
     "min_market_value": 1560750,
     "max_market_value": 2393150,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 293,
@@ -4085,7 +4376,8 @@
     "reform": 150000,
     "min_market_value": 3076150,
     "max_market_value": 4674150,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 294,
@@ -4099,7 +4391,8 @@
     "reform": 12500,
     "min_market_value": "",
     "max_market_value": "",
-    "show_market_value": "False"
+    "show_market_value": "False",
+    "margin_type": ""
   },
   {
     "id": 295,
@@ -4111,9 +4404,10 @@
     "increment": 7400,
     "usableAreas": 25,
     "reform": 12500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 277500,
+    "max_market_value": 425499.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 296,
@@ -4125,9 +4419,10 @@
     "increment": 10580,
     "usableAreas": 79,
     "reform": 39500,
-    "min_market_value": 396750,
-    "max_market_value": 608350,
-    "show_market_value": "True"
+    "min_market_value": 407330,
+    "max_market_value": 618930,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 297,
@@ -4141,7 +4436,8 @@
     "reform": 33500,
     "min_market_value": 429780,
     "max_market_value": 650180,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 298,
@@ -4153,9 +4449,10 @@
     "increment": 7600,
     "usableAreas": 63,
     "reform": 31500,
-    "min_market_value": "",
-    "max_market_value": "",
-    "show_market_value": "False"
+    "min_market_value": 285000,
+    "max_market_value": 436999.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
   },
   {
     "id": 299,
@@ -4167,9 +4464,10 @@
     "increment": 18600,
     "usableAreas": 78,
     "reform": 39000,
-    "min_market_value": 697500,
-    "max_market_value": 1069500,
-    "show_market_value": "True"
+    "min_market_value": 716100,
+    "max_market_value": 1088100,
+    "show_market_value": "True",
+    "margin_type": 3
   },
   {
     "id": 300,
@@ -4183,7 +4481,8 @@
     "reform": 45000,
     "min_market_value": 315900,
     "max_market_value": 477900,
-    "show_market_value": "True"
+    "show_market_value": "True",
+    "margin_type": 2
   },
   {
     "id": 301,
@@ -4195,8 +4494,1509 @@
     "increment": 14340,
     "usableAreas": 77,
     "reform": 38500,
-    "min_market_value": 552090,
-    "max_market_value": 838890,
-    "show_market_value": "True"
+    "min_market_value": 537750,
+    "max_market_value": 824549.9999999999,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 302,
+    "property": 2667567924,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/27f57ee4d02c583688ff5c7fe7908eef/{description}.jpg",
+    "price": 4200000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 840000,
+    "increment": 84000,
+    "usableAreas": 173,
+    "reform": 86500,
+    "min_market_value": 3234000,
+    "max_market_value": 4914000,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 303,
+    "property": 2526231798,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/e2392e0c037cc2135c96be0c844423a2/{description}.jpg",
+    "price": 680000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 136000,
+    "increment": 13600,
+    "usableAreas": 38,
+    "reform": 19000,
+    "min_market_value": 530400,
+    "max_market_value": 802400,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 304,
+    "property": 2669071907,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/887a764f6dfd364365ec4d59eebcc852/{description}.jpg",
+    "price": 2100000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 420000,
+    "increment": 42000,
+    "usableAreas": 161,
+    "reform": 80500,
+    "min_market_value": 1638000,
+    "max_market_value": 2478000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 305,
+    "property": 2645238368,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/3f593e34250bf4dd798996d4e8ae1ddd/{description}.jpg",
+    "price": 3950000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 790000,
+    "increment": 79000,
+    "usableAreas": 147,
+    "reform": 73500,
+    "min_market_value": 3081000,
+    "max_market_value": 4661000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 306,
+    "property": 2642045165,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/407e2f260b515faad15a0d5ac34fba70/{description}.jpg",
+    "price": 2972000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 594400,
+    "increment": 59440,
+    "usableAreas": 153,
+    "reform": 76500,
+    "min_market_value": 2288440,
+    "max_market_value": 3477240,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 307,
+    "property": 2668553518,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/d0ffe3858187a4e9cf73cfa5ef5fd1c2/{description}.jpg",
+    "price": 980000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 196000,
+    "increment": 19600,
+    "usableAreas": 40,
+    "reform": 20000,
+    "min_market_value": 754600,
+    "max_market_value": 1146600,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 308,
+    "property": 2642368846,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/c8ef34a52310d9779aaf577d090a5517/{description}.jpg",
+    "price": 1650000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 330000,
+    "increment": 33000,
+    "usableAreas": 62,
+    "reform": 31000,
+    "min_market_value": 1237500,
+    "max_market_value": 1897499.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 309,
+    "property": 2652094542,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/92c8dec9d60924394d1dcf285f4c8b93/{description}.jpg",
+    "price": 3200000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 640000,
+    "increment": 64000,
+    "usableAreas": 154,
+    "reform": 77000,
+    "min_market_value": 2400000,
+    "max_market_value": 3679999.9999999995,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 310,
+    "property": 2661777601,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/4580e7043678180e1a362b2b24990c19/{description}.jpg",
+    "price": 1153000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 230600,
+    "increment": 23060,
+    "usableAreas": 84,
+    "reform": 42000,
+    "min_market_value": 864750,
+    "max_market_value": 1325950,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 311,
+    "property": 2573691614,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/238f50a556a98f9a4dee1e50f3afa4a5/{description}.jpg",
+    "price": 613000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 122600,
+    "increment": 12260,
+    "usableAreas": 28,
+    "reform": 14000,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 312,
+    "property": 2496934910,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/6deb8715c381bde402527bdeb8b2bd7d/{description}.jpg",
+    "price": 850000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 170000,
+    "increment": 17000,
+    "usableAreas": 38,
+    "reform": 19000,
+    "min_market_value": 637500,
+    "max_market_value": 977499.9999999999,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 313,
+    "property": 2635620525,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/e156edf93520925521101f3d6e58588d/{description}.jpg",
+    "price": 3200000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 640000,
+    "increment": 64000,
+    "usableAreas": 162,
+    "reform": 81000,
+    "min_market_value": 2464000,
+    "max_market_value": 3744000,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 314,
+    "property": 2668739624,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/198f2b90c046ae7cc1eb1ed48bf9e890/{description}.jpg",
+    "price": 1550000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 310000,
+    "increment": 31000,
+    "usableAreas": 126,
+    "reform": 63000,
+    "min_market_value": 1193500,
+    "max_market_value": 1813500,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 315,
+    "property": 2668255996,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/13fbc165df33df51c3087188f0d8b18a/{description}.jpg",
+    "price": 1650000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 330000,
+    "increment": 33000,
+    "usableAreas": 77,
+    "reform": 38500,
+    "min_market_value": 1287000,
+    "max_market_value": 1947000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 316,
+    "property": 2669092717,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/b8f9ce2d16808f54f29409145e97e766/{description}.jpg",
+    "price": 1500000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 300000,
+    "increment": 30000,
+    "usableAreas": 102,
+    "reform": 51000,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 317,
+    "property": 2526751823,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/d67536951a9773147500b98f14577926/{description}.jpg",
+    "price": 790000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 158000,
+    "increment": 15800,
+    "usableAreas": 60,
+    "reform": 30000,
+    "min_market_value": 616200,
+    "max_market_value": 932200,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 318,
+    "property": 2517999985,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/aa60c7636d5c3f0c0f07bd75b8552e1d/{description}.jpg",
+    "price": 850000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 170000,
+    "increment": 17000,
+    "usableAreas": 38,
+    "reform": 19000,
+    "min_market_value": 663000,
+    "max_market_value": 1003000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 319,
+    "property": 2580514936,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/4adf57b895d2ee4f49536224011e8caa/{description}.jpg",
+    "price": 975000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 195000,
+    "increment": 19500,
+    "usableAreas": 39,
+    "reform": 19500,
+    "min_market_value": 731250,
+    "max_market_value": 1121250,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 320,
+    "property": 2663486639,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/31895ba82003786bcc13988f0007bc8c/{description}.jpg",
+    "price": 929000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 185800,
+    "increment": 18580,
+    "usableAreas": 44,
+    "reform": 22000,
+    "min_market_value": 715330,
+    "max_market_value": 1086930,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 321,
+    "property": 2640692009,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/40b1884919c886aeb82f1197a6efe54b/{description}.jpg",
+    "price": 841000,
+    "neighborhood": "Itaim Bibi",
+    "auction_value": 168200,
+    "increment": 16820,
+    "usableAreas": 68,
+    "reform": 34000,
+    "min_market_value": 647570,
+    "max_market_value": 983969.9999999999,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 322,
+    "property": 2669111381,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/32c7902ea4c5226a552238f9cc885223/{description}.jpg",
+    "price": 550000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 110000,
+    "increment": 11000,
+    "usableAreas": 75,
+    "reform": 37500,
+    "min_market_value": 429000,
+    "max_market_value": 649000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 323,
+    "property": 2610020221,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/28b913be2699488d9e364dafe6636fb3/{description}.jpg",
+    "price": 1869000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 373800,
+    "increment": 37380,
+    "usableAreas": 122,
+    "reform": 61000,
+    "min_market_value": 1401750,
+    "max_market_value": 2149350,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 324,
+    "property": 2669083601,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/61071cf365583cb551ee1594ac9b20d1/{description}.jpg",
+    "price": 800000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 160000,
+    "increment": 16000,
+    "usableAreas": 83,
+    "reform": 41500,
+    "min_market_value": 616000,
+    "max_market_value": 936000,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 325,
+    "property": 2664376700,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/1cf8ba84cdc804841de7d9ad41865576/{description}.jpg",
+    "price": 2249000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 449800,
+    "increment": 44980,
+    "usableAreas": 149,
+    "reform": 74500,
+    "min_market_value": 1731730,
+    "max_market_value": 2631330,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 326,
+    "property": 2667887385,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/32932926d47ca4d9da718a06075d2242/{description}.jpg",
+    "price": 739000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 147800,
+    "increment": 14780,
+    "usableAreas": 56,
+    "reform": 28000,
+    "min_market_value": 569030,
+    "max_market_value": 864630,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 327,
+    "property": 2668291188,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/13c126ef522f1102ead827986ae162f4/{description}.jpg",
+    "price": 1200000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 240000,
+    "increment": 24000,
+    "usableAreas": 85,
+    "reform": 42500,
+    "min_market_value": 936000,
+    "max_market_value": 1416000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 328,
+    "property": 2669368103,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/7a3d1e995313060975dbc7fee06d71e0/{description}.jpg",
+    "price": 2800000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 560000,
+    "increment": 56000,
+    "usableAreas": 244,
+    "reform": 122000,
+    "min_market_value": 2100000,
+    "max_market_value": 3219999.9999999995,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 329,
+    "property": 2593519157,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/8ddf3297d144857321475716b1efcaa8/{description}.jpg",
+    "price": 2550000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 510000,
+    "increment": 51000,
+    "usableAreas": 122,
+    "reform": 61000,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 330,
+    "property": 2653715062,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/bd5b0e925de6f00a463aa1e2c236b64d/{description}.jpg",
+    "price": 513000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 102600,
+    "increment": 10260,
+    "usableAreas": 37,
+    "reform": 18500,
+    "min_market_value": 384750,
+    "max_market_value": 589950,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 331,
+    "property": 2634087507,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/e070b93db26f5410b04d583930bf377c/{description}.jpg",
+    "price": 975000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 195000,
+    "increment": 19500,
+    "usableAreas": 76,
+    "reform": 38000,
+    "min_market_value": 750750,
+    "max_market_value": 1140750,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 332,
+    "property": 2667684310,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/06b65b2e0be0d8e5e32547391135d22d/{description}.jpg",
+    "price": 1560000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 312000,
+    "increment": 31200,
+    "usableAreas": 90,
+    "reform": 45000,
+    "min_market_value": 1201200,
+    "max_market_value": 1825200,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 333,
+    "property": 2628488161,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/8aa1fb48f30a5e490fc982438fe1eaf3/{description}.jpg",
+    "price": 1650000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 330000,
+    "increment": 33000,
+    "usableAreas": 69,
+    "reform": 34500,
+    "min_market_value": 1237500,
+    "max_market_value": 1897499.9999999998,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 334,
+    "property": 2668539845,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/ef13a6ef8595c955e982b09280723670/{description}.jpg",
+    "price": 740000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 148000,
+    "increment": 14800,
+    "usableAreas": 56,
+    "reform": 28000,
+    "min_market_value": 555000,
+    "max_market_value": 850999.9999999999,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 335,
+    "property": 2635573597,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/816feed2f6459176a649c0be1acdda4b/{description}.jpg",
+    "price": 1990000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 398000,
+    "increment": 39800,
+    "usableAreas": 111,
+    "reform": 55500,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 336,
+    "property": 2666118903,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/7b539f60ecca9f0ca397f15be5ea4ee2/{description}.jpg",
+    "price": 1090000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 218000,
+    "increment": 21800,
+    "usableAreas": 60,
+    "reform": 30000,
+    "min_market_value": 817500,
+    "max_market_value": 1253500,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 337,
+    "property": 2639145037,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/e7123573d10ca190e2b760e4da668faa/{description}.jpg",
+    "price": 750000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 150000,
+    "increment": 15000,
+    "usableAreas": 44,
+    "reform": 22000,
+    "min_market_value": 585000,
+    "max_market_value": 885000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 338,
+    "property": 2435646568,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/1e1572fe6e6ef7a7f5554b047be2ada7/{description}.jpg",
+    "price": 1250000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 250000,
+    "increment": 25000,
+    "usableAreas": 125,
+    "reform": 62500,
+    "min_market_value": 962500,
+    "max_market_value": 1462500,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 339,
+    "property": 2668668641,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/c7c57e1df87505e5676c8773c051c7c7/{description}.jpg",
+    "price": 575000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 115000,
+    "increment": 11500,
+    "usableAreas": 60,
+    "reform": 30000,
+    "min_market_value": 442750,
+    "max_market_value": 672750,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 340,
+    "property": 2588199028,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/7a593e548d4645996acfd53ac37576cd/{description}.jpg",
+    "price": 1691000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 338200,
+    "increment": 33820,
+    "usableAreas": 170,
+    "reform": 85000,
+    "min_market_value": 1318980,
+    "max_market_value": 1995380,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 341,
+    "property": 2667868097,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/31ea26ef13b70ee8771373fb42928821/{description}.jpg",
+    "price": 2450000,
+    "neighborhood": "Vila Madalena",
+    "auction_value": 490000,
+    "increment": 49000,
+    "usableAreas": 156,
+    "reform": 78000,
+    "min_market_value": 1886500,
+    "max_market_value": 2866500,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 342,
+    "property": 2654310056,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/db8850c4913bb361f8a15e63987fa137/{description}.jpg",
+    "price": 750000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 150000,
+    "increment": 15000,
+    "usableAreas": 37,
+    "reform": 18500,
+    "min_market_value": 577500,
+    "max_market_value": 877500,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 343,
+    "property": 2668234896,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/6b60e0450978a378a4d06caa9addaabe/{description}.jpg",
+    "price": 2300000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 460000,
+    "increment": 46000,
+    "usableAreas": 115,
+    "reform": 57500,
+    "min_market_value": 1794000,
+    "max_market_value": 2714000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 344,
+    "property": 2660752958,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/2e634010a9e38decf147884579369062/{description}.jpg",
+    "price": 3429000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 685800,
+    "increment": 68580,
+    "usableAreas": 174,
+    "reform": 87000,
+    "min_market_value": 2674620,
+    "max_market_value": 4046220,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 345,
+    "property": 2531676808,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/7752853b60e06b159fea3a3966cdc730/{description}.jpg",
+    "price": 1320000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 264000,
+    "increment": 26400,
+    "usableAreas": 73,
+    "reform": 36500,
+    "min_market_value": 1029600,
+    "max_market_value": 1557600,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 346,
+    "property": 2618809904,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/2a6302ff65c245b1d8e1da7f6a40bcb3/{description}.jpg",
+    "price": 1106000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 221200,
+    "increment": 22120,
+    "usableAreas": 78,
+    "reform": 39000,
+    "min_market_value": 862680,
+    "max_market_value": 1305080,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 347,
+    "property": 2669013901,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/8e458ab3155320a81deb741503454ecd/{description}.jpg",
+    "price": 665000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 133000,
+    "increment": 13300,
+    "usableAreas": 25,
+    "reform": 12500,
+    "min_market_value": 518700,
+    "max_market_value": 784700,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 348,
+    "property": 2622464121,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/6f1c2e55734f41973db6a464ac2b028e/{description}.jpg",
+    "price": 770000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 154000,
+    "increment": 15400,
+    "usableAreas": 37,
+    "reform": 18500,
+    "min_market_value": 600600,
+    "max_market_value": 908600,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 349,
+    "property": 2477381898,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/e66544ff1df95940ce01661e56e11b0f/{description}.jpg",
+    "price": 700000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 140000,
+    "increment": 14000,
+    "usableAreas": 47,
+    "reform": 23500,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 350,
+    "property": 2600455353,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/d743f9d0b5052f69272cc2382d9b80dc/{description}.jpg",
+    "price": 1997000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 399400,
+    "increment": 39940,
+    "usableAreas": 130,
+    "reform": 65000,
+    "min_market_value": 1557660,
+    "max_market_value": 2356460,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 351,
+    "property": 2484131585,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/8b58c548973bc4884129965227f55789/{description}.jpg",
+    "price": 1100000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 220000,
+    "increment": 22000,
+    "usableAreas": 86,
+    "reform": 43000,
+    "min_market_value": 858000,
+    "max_market_value": 1298000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 352,
+    "property": 2621819718,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/f67519de25b4a0e80fa0571e6c6f172b/{description}.jpg",
+    "price": 1993000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 398600,
+    "increment": 39860,
+    "usableAreas": 156,
+    "reform": 78000,
+    "min_market_value": 1494750,
+    "max_market_value": 2291950,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 353,
+    "property": 2661561060,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/cae969c60b55cedb1ccfb984389ca99e/{description}.jpg",
+    "price": 1190000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 238000,
+    "increment": 23800,
+    "usableAreas": 57,
+    "reform": 28500,
+    "min_market_value": 892500,
+    "max_market_value": 1368500,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 354,
+    "property": 2635127805,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/16834d6c2069c5184d032a71a8a696c5/{description}.jpg",
+    "price": 390000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 78000,
+    "increment": 7800,
+    "usableAreas": 30,
+    "reform": 15000,
+    "min_market_value": 300300,
+    "max_market_value": 456300,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 355,
+    "property": 2572974917,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/aadc75850032663ffb32baff953604a6/{description}.jpg",
+    "price": 3761000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 752200,
+    "increment": 75220,
+    "usableAreas": 174,
+    "reform": 87000,
+    "min_market_value": 2895970,
+    "max_market_value": 4400370,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 356,
+    "property": 2648013077,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/ceb8b1687d499803d9e9768dcb3e8fba/{description}.jpg",
+    "price": 1288000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 257600,
+    "increment": 25760,
+    "usableAreas": 71,
+    "reform": 35500,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 357,
+    "property": 2463418014,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/d5eefae549aca0de166fb8bb999117f2/{description}.jpg",
+    "price": 1050000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 210000,
+    "increment": 21000,
+    "usableAreas": 120,
+    "reform": 60000,
+    "min_market_value": 808500,
+    "max_market_value": 1228500,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 358,
+    "property": 2659280394,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/3a33dd8e1ace7d20df8b8bfacc0104f4/{description}.jpg",
+    "price": 610000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 122000,
+    "increment": 12200,
+    "usableAreas": 39,
+    "reform": 19500,
+    "min_market_value": 469700,
+    "max_market_value": 713700,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 359,
+    "property": 2615031696,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/30a1a07880f9e2384a14caa6cf4a653d/{description}.jpg",
+    "price": 973000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 194600,
+    "increment": 19460,
+    "usableAreas": 76,
+    "reform": 38000,
+    "min_market_value": 729750,
+    "max_market_value": 1118950,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 360,
+    "property": 2589608533,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/645d829fc671334d4561f6c1469943f8/{description}.jpg",
+    "price": 3294000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 658800,
+    "increment": 65880,
+    "usableAreas": 170,
+    "reform": 85000,
+    "min_market_value": 2470500,
+    "max_market_value": 3788099.9999999995,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 361,
+    "property": 2641887171,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/143a1f7fb97860ad9dece4a00beb6552/{description}.jpg",
+    "price": 750000,
+    "neighborhood": "Pinheiros",
+    "auction_value": 150000,
+    "increment": 15000,
+    "usableAreas": 61,
+    "reform": 30500,
+    "min_market_value": 562500,
+    "max_market_value": 862499.9999999999,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 362,
+    "property": 2669273494,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/226596658f6b199b298a8b6effabc0cf/{description}.jpg",
+    "price": 408000,
+    "neighborhood": "Santana",
+    "auction_value": 81600,
+    "increment": 8160,
+    "usableAreas": 77,
+    "reform": 38500,
+    "min_market_value": 318240,
+    "max_market_value": 481440,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 363,
+    "property": 2668671998,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/4606a4f8730aa7ed4d18b69c1f87ce6b/{description}.jpg",
+    "price": 365000,
+    "neighborhood": "Santana",
+    "auction_value": 73000,
+    "increment": 7300,
+    "usableAreas": 53,
+    "reform": 26500,
+    "min_market_value": 273750,
+    "max_market_value": 419749.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 364,
+    "property": 2668671906,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/15692671d9b8a353ee5804ec18c3b80b/{description}.jpg",
+    "price": 340000,
+    "neighborhood": "Santana",
+    "auction_value": 68000,
+    "increment": 6800,
+    "usableAreas": 69,
+    "reform": 34500,
+    "min_market_value": 255000,
+    "max_market_value": 390999.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 365,
+    "property": 2669224832,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/59646cda59cb222a0e92d531f5617e25/{description}.jpg",
+    "price": 690000,
+    "neighborhood": "Santana",
+    "auction_value": 138000,
+    "increment": 13800,
+    "usableAreas": 121,
+    "reform": 60500,
+    "min_market_value": 531300,
+    "max_market_value": 807300,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 366,
+    "property": 2660155860,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/eaeb892c3e06ff2d9a3f9c3dafcad63c/{description}.jpg",
+    "price": 900000,
+    "neighborhood": "Santana",
+    "auction_value": 180000,
+    "increment": 18000,
+    "usableAreas": 104,
+    "reform": 52000,
+    "min_market_value": 693000,
+    "max_market_value": 1053000,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 367,
+    "property": 2668536777,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/28e614ad360285c868dce78264e8175c/{description}.jpg",
+    "price": 851000,
+    "neighborhood": "Santana",
+    "auction_value": 170200,
+    "increment": 17020,
+    "usableAreas": 118,
+    "reform": 59000,
+    "min_market_value": 663780,
+    "max_market_value": 1004180,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 368,
+    "property": 2632669100,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/7dc69a3b55d059fd4e0dc301b49c011d/{description}.jpg",
+    "price": 980000,
+    "neighborhood": "Santana",
+    "auction_value": 196000,
+    "increment": 19600,
+    "usableAreas": 145,
+    "reform": 72500,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 369,
+    "property": 2668330109,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/72d197d466e04862ea4d5f888cd39266/{description}.jpg",
+    "price": 650000,
+    "neighborhood": "Santana",
+    "auction_value": 130000,
+    "increment": 13000,
+    "usableAreas": 120,
+    "reform": 60000,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 370,
+    "property": 2668281356,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/afc83a61765d7ece5403539d13b0130e/{description}.jpg",
+    "price": 535000,
+    "neighborhood": "Santana",
+    "auction_value": 107000,
+    "increment": 10700,
+    "usableAreas": 116,
+    "reform": 58000,
+    "min_market_value": 401250,
+    "max_market_value": 615250,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 371,
+    "property": 2605348088,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/04c528ad64d1f499b48d2cd4a2246d46/{description}.jpg",
+    "price": 1350000,
+    "neighborhood": "Santana",
+    "auction_value": 270000,
+    "increment": 27000,
+    "usableAreas": 135,
+    "reform": 67500,
+    "min_market_value": 1053000,
+    "max_market_value": 1593000,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 372,
+    "property": 2667608110,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/57883f22cab68418f1b04ac660945c80/{description}.jpg",
+    "price": 470000,
+    "neighborhood": "Santana",
+    "auction_value": 94000,
+    "increment": 9400,
+    "usableAreas": 58,
+    "reform": 29000,
+    "min_market_value": 361900,
+    "max_market_value": 549900,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 373,
+    "property": 2668668022,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/8f4c0c838d763ac5ac63277ca4a97e5d/{description}.jpg",
+    "price": 465000,
+    "neighborhood": "Santana",
+    "auction_value": 93000,
+    "increment": 9300,
+    "usableAreas": 75,
+    "reform": 37500,
+    "min_market_value": 358050,
+    "max_market_value": 544050,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 374,
+    "property": 2668284683,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/afc83a61765d7ece5403539d13b0130e/{description}.jpg",
+    "price": 535000,
+    "neighborhood": "Santana",
+    "auction_value": 107000,
+    "increment": 10700,
+    "usableAreas": 116,
+    "reform": 58000,
+    "min_market_value": 411950,
+    "max_market_value": 625950,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 375,
+    "property": 2666504109,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/8671c317690d8e7491d0caff50f67b02/{description}.jpg",
+    "price": 395000,
+    "neighborhood": "Santana",
+    "auction_value": 79000,
+    "increment": 7900,
+    "usableAreas": 61,
+    "reform": 30500,
+    "min_market_value": 304150,
+    "max_market_value": 462150,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 376,
+    "property": 2666013720,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/fe3f869f64c99c38513b33c83ea354e7/{description}.jpg",
+    "price": 699000,
+    "neighborhood": "Santana",
+    "auction_value": 139800,
+    "increment": 13980,
+    "usableAreas": 93,
+    "reform": 46500,
+    "min_market_value": 545220,
+    "max_market_value": 824820,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 377,
+    "property": 2657081255,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/2d5721fd179405195c934781f8a97561/{description}.jpg",
+    "price": 1190000,
+    "neighborhood": "Santana",
+    "auction_value": 238000,
+    "increment": 23800,
+    "usableAreas": 123,
+    "reform": 61500,
+    "min_market_value": 892500,
+    "max_market_value": 1368500,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 378,
+    "property": 2667917999,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/36075cbb1672b7fb956626b39dea7868/{description}.jpg",
+    "price": 360000,
+    "neighborhood": "Santana",
+    "auction_value": 72000,
+    "increment": 7200,
+    "usableAreas": 80,
+    "reform": 40000,
+    "min_market_value": 270000,
+    "max_market_value": 413999.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 379,
+    "property": 2668725942,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/8e55b7b593ec30fdfb5441699b4e0521/{description}.jpg",
+    "price": 750000,
+    "neighborhood": "Santana",
+    "auction_value": 150000,
+    "increment": 15000,
+    "usableAreas": 80,
+    "reform": 40000,
+    "min_market_value": 577500,
+    "max_market_value": 877500,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 380,
+    "property": 2667606871,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/8f4c0c838d763ac5ac63277ca4a97e5d/{description}.jpg",
+    "price": 465000,
+    "neighborhood": "Santana",
+    "auction_value": 93000,
+    "increment": 9300,
+    "usableAreas": 75,
+    "reform": 37500,
+    "min_market_value": 362700,
+    "max_market_value": 548700,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 381,
+    "property": 2664208494,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/6b2d42669faf9811d0750bd4cd8185ce/{description}.jpg",
+    "price": 1795000,
+    "neighborhood": "Santana",
+    "auction_value": 359000,
+    "increment": 35900,
+    "usableAreas": 132,
+    "reform": 66000,
+    "min_market_value": 1400100,
+    "max_market_value": 2118100,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 382,
+    "property": 2669155311,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/246bbd37692971000ee7d4b182fee24f/{description}.jpg",
+    "price": 488000,
+    "neighborhood": "Mooca",
+    "auction_value": 97600,
+    "increment": 9760,
+    "usableAreas": 62,
+    "reform": 31000,
+    "min_market_value": 375760,
+    "max_market_value": 570960,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 383,
+    "property": 2648207702,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/4d0dbeb9a9ecb48854be107b852c83ea/{description}.jpg",
+    "price": 468000,
+    "neighborhood": "Mooca",
+    "auction_value": 93600,
+    "increment": 9360,
+    "usableAreas": 54,
+    "reform": 27000,
+    "min_market_value": 351000,
+    "max_market_value": 538200,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 384,
+    "property": 2667601932,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/18c6f052bbd6dddb8697fac339e5134c/{description}.jpg",
+    "price": 450000,
+    "neighborhood": "Mooca",
+    "auction_value": 90000,
+    "increment": 9000,
+    "usableAreas": 62,
+    "reform": 31000,
+    "min_market_value": 337500,
+    "max_market_value": 517499.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 385,
+    "property": 2669337893,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/3fe4e4938fb8c38fb173e3599aeab718/{description}.jpg",
+    "price": 1299000,
+    "neighborhood": "Mooca",
+    "auction_value": 259800,
+    "increment": 25980,
+    "usableAreas": 120,
+    "reform": 60000,
+    "min_market_value": 1013220,
+    "max_market_value": 1532820,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 386,
+    "property": 2669119477,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/7ff000964c4837a8da89b5faf2486f8c/{description}.jpg",
+    "price": 590000,
+    "neighborhood": "Mooca",
+    "auction_value": 118000,
+    "increment": 11800,
+    "usableAreas": 60,
+    "reform": 30000,
+    "min_market_value": 454300,
+    "max_market_value": 690300,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 387,
+    "property": 2668913903,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/f73374368ca3c39aa5972eb82839d54c/{description}.jpg",
+    "price": 544000,
+    "neighborhood": "Mooca",
+    "auction_value": 108800,
+    "increment": 10880,
+    "usableAreas": 64,
+    "reform": 32000,
+    "min_market_value": 408000,
+    "max_market_value": 625600,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 388,
+    "property": 2648209124,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/bfb51b61bc9aadfa12c8918e73a8344f/{description}.jpg",
+    "price": 467000,
+    "neighborhood": "Mooca",
+    "auction_value": 93400,
+    "increment": 9340,
+    "usableAreas": 54,
+    "reform": 27000,
+    "min_market_value": 364260,
+    "max_market_value": 551060,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 389,
+    "property": 2661060203,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/e5ecb2e1f8f72e66a1db77b105d49946/{description}.jpg",
+    "price": 440000,
+    "neighborhood": "Mooca",
+    "auction_value": 88000,
+    "increment": 8800,
+    "usableAreas": 54,
+    "reform": 27000,
+    "min_market_value": 343200,
+    "max_market_value": 519200,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 390,
+    "property": 2669119510,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/4c16334f9f94a6219e8e4a152e0aba46/{description}.jpg",
+    "price": 650000,
+    "neighborhood": "Mooca",
+    "auction_value": 130000,
+    "increment": 13000,
+    "usableAreas": 60,
+    "reform": 30000,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 391,
+    "property": 2661181962,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/9213b79afd7d7160a4de3014df0971ff/{description}.jpg",
+    "price": 539000,
+    "neighborhood": "Mooca",
+    "auction_value": 107800,
+    "increment": 10780,
+    "usableAreas": 67,
+    "reform": 33500,
+    "min_market_value": 420420,
+    "max_market_value": 636020,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 392,
+    "property": 2648798433,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/a7ca1e5594ef703b49a6f92f620ddbcb/{description}.jpg",
+    "price": 434000,
+    "neighborhood": "Mooca",
+    "auction_value": 86800,
+    "increment": 8680,
+    "usableAreas": 55,
+    "reform": 27500,
+    "min_market_value": 334180,
+    "max_market_value": 507779.99999999994,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 393,
+    "property": 2636577454,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/26c4e6ce4947a77377b3ea93b2c468c9/{description}.jpg",
+    "price": 573000,
+    "neighborhood": "Mooca",
+    "auction_value": 114600,
+    "increment": 11460,
+    "usableAreas": 67,
+    "reform": 33500,
+    "min_market_value": 429750,
+    "max_market_value": 658950,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 394,
+    "property": 2615795515,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/d9022418bfee04c7658fcbf3a9dff359/{description}.jpg",
+    "price": 597000,
+    "neighborhood": "Mooca",
+    "auction_value": 119400,
+    "increment": 11940,
+    "usableAreas": 55,
+    "reform": 27500,
+    "min_market_value": 447750,
+    "max_market_value": 686550,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 395,
+    "property": 2648796855,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/9d91d54e463737b151a70276835e68c4/{description}.jpg",
+    "price": 434000,
+    "neighborhood": "Mooca",
+    "auction_value": 86800,
+    "increment": 8680,
+    "usableAreas": 55,
+    "reform": 27500,
+    "min_market_value": 334180,
+    "max_market_value": 507779.99999999994,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 396,
+    "property": 2668220312,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/115845d833955198dd5cd237d07b4316/{description}.jpg",
+    "price": 980000,
+    "neighborhood": "Mooca",
+    "auction_value": 196000,
+    "increment": 19600,
+    "usableAreas": 87,
+    "reform": 43500,
+    "min_market_value": 735000,
+    "max_market_value": 1127000,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 397,
+    "property": 2656115498,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/2017bd5c62027c64cf2d84d66216f22d/{description}.jpg",
+    "price": 575000,
+    "neighborhood": "Mooca",
+    "auction_value": 115000,
+    "increment": 11500,
+    "usableAreas": 67,
+    "reform": 33500,
+    "min_market_value": "",
+    "max_market_value": "",
+    "show_market_value": "False",
+    "margin_type": ""
+  },
+  {
+    "id": 398,
+    "property": 2575852033,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/5ec3905d1f7feaf79811baa7ccfdd78e/{description}.jpg",
+    "price": 575000,
+    "neighborhood": "Mooca",
+    "auction_value": 115000,
+    "increment": 11500,
+    "usableAreas": 67,
+    "reform": 33500,
+    "min_market_value": 448500,
+    "max_market_value": 678500,
+    "show_market_value": "True",
+    "margin_type": 2
+  },
+  {
+    "id": 399,
+    "property": 2660858434,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/f0710a99d10cc5bb4e4020ecf76495a6/{description}.jpg",
+    "price": 440000,
+    "neighborhood": "Mooca",
+    "auction_value": 88000,
+    "increment": 8800,
+    "usableAreas": 54,
+    "reform": 27000,
+    "min_market_value": 330000,
+    "max_market_value": 505999.99999999994,
+    "show_market_value": "True",
+    "margin_type": 1
+  },
+  {
+    "id": 400,
+    "property": 2648210567,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/caa6ca20595315b78e4142234b8ad47f/{description}.jpg",
+    "price": 468000,
+    "neighborhood": "Mooca",
+    "auction_value": 93600,
+    "increment": 9360,
+    "usableAreas": 54,
+    "reform": 27000,
+    "min_market_value": 360360,
+    "max_market_value": 547560,
+    "show_market_value": "True",
+    "margin_type": 3
+  },
+  {
+    "id": 401,
+    "property": 2581715027,
+    "photos": "https://resizedimgs.zapimoveis.com.br/crop/800x360/named.images.sp/1da192c3c5748099baa2dbc264e40b24/{description}.jpg",
+    "price": 465000,
+    "neighborhood": "Mooca",
+    "auction_value": 93000,
+    "increment": 9300,
+    "usableAreas": 54,
+    "reform": 27000,
+    "min_market_value": 358050,
+    "max_market_value": 544050,
+    "show_market_value": "True",
+    "margin_type": 3
   }
 ]

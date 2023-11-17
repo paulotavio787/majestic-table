@@ -8,10 +8,11 @@ interface WalletProps {
     money: number;
     pay: () => void;
     ask: () => void;
-    defineGameMode: (gameMode: number) => void
+    defineGameMode: (gameMode: number) => void;
+    goTo: () => void;
   }
   
-  export default function Wallet({ debt, money, pay, ask, defineGameMode}: WalletProps) {
+  export default function Wallet({ debt, money, pay, ask, defineGameMode, goTo}: WalletProps) {
     const [gameMode, setGameMode] = useState<number>(0)
     useEffect(() => {
       defineGameMode(gameMode)
@@ -19,7 +20,9 @@ interface WalletProps {
     return (
       <div className="bg-gray-700 flex flex-col justify-center items-center w-full">
         <div className="flex justify-center items-center w-full bg-gray-900 py-1 rounded-b-lg">
-            <Image src={icon} alt="logo majestic" className="w-5"/>
+            <a onClick={goTo}>
+              <Image src={icon} alt="logo majestic" className="w-5"/>
+            </a>
         </div>
         <div className="flex flex-row justify-between w-full px-5">
             <a className="text-red-600 font-semibold" onClick={pay}>- ${`${debt}`}</a>
