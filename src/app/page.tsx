@@ -49,23 +49,34 @@ export default function Home() {
   const [playerWinner, setPlayerWinner] = useState<number | null>(null)
   const [winningPrice, setWinningPrice] = useState<number | null>(null)
   const [reform, setReform] = useState<boolean>(false)
-  useEffect(() => {
-    if (debt <= money) {
+  const [debts, setDebts] = useState<number[]>([0])
+  useEffect(() => {    
+    if (debt < money) {
       setDebt(debt - money)
       setMoney(money - debt)
     }
   }, [money])
   useEffect(() => {
-    debt < 0 && setDebt(0)
+    console.log("debt: ", debt);
+    debt < 0 && setDebt(0)   
   }, [debt])
   useEffect(() => {
     if (money < 0) {
-      setDebt(debt + Math.abs(money))
+      console.log(money);
+      let debtsVar = [...debts, Math.abs(money)]
+      
+      setDebts(debtsVar)
+      console.log("var: ", debtsVar);
       setMoney(0)
+    } else {
+      setDebts(debts.map((item) => item * 1.1))
     }
     match % 5 === 0 && match > 0 && setMoney(money + 100000)
-    setDebt(Math.round(debt * 1.1))
   }, [match])
+  useEffect(() => {
+    console.log("debts: ", debts);
+    setDebt(debts.reduce((total, numero) => total + numero, 0))
+  }, [debts])
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-start">

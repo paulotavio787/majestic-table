@@ -25,7 +25,7 @@ interface WalletProps {
             </a>
         </div>
         <div className="flex flex-row justify-between w-full px-5">
-            <a className="text-red-600 font-semibold" onClick={pay}>- ${`${debt}`}</a>
+            <a className="text-red-600 font-semibold" onClick={pay}>- ${`${Math.round(debt)}`}</a>
             <div className="flex flex-row gap-5">
               <button 
                 className={`text-md ${gameMode == 1 && "bg-white"}`}
@@ -36,7 +36,7 @@ interface WalletProps {
                 onClick={() => gameMode != 2 ? setGameMode(2) : setGameMode(0)}  
               >🐂</button>
             </div>
-            <a className="text-green-600 font-semibold" onClick={ask}>+ ${`${money}`}</a>
+            <a className="text-green-600 font-semibold" onClick={ask}>+ ${`${Math.round(money)}`}</a>
         </div>
       </div>
     );
