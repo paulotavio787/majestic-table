@@ -6,7 +6,7 @@ import Image from 'next/image';
 
 interface AuctionProps {
     id: number;
-    goTo: (win: boolean, price: number|null) => void
+    goTo: (win: boolean, price: number|null, dice: number) => void
     gameMode: number;
     price: number|null;
     reform: boolean
@@ -32,6 +32,8 @@ export default function Selling ({id, goTo, gameMode=0, price, reform}: AuctionP
             price > auctionValue && setDice(Math.round(50-(((price/auctionValue)-1)*100)))
             price < auctionValue && setDice(Math.round(50+((1-(price/auctionValue))*100)))
             price === auctionValue && setDice(50)
+            dice < 5 && setDice(5)
+            dice > 95 && setDice(95)
         }
     }, [])
     return (
@@ -50,7 +52,7 @@ export default function Selling ({id, goTo, gameMode=0, price, reform}: AuctionP
                         color="bg-green-500"
                         textSize=""
                         onClick={() => {
-                            goTo(true, auctionValue)
+                            goTo(true, auctionValue, dice)
                         }}
                         altCss="w-full"
                     >Venddido🤑</Button>
@@ -58,7 +60,7 @@ export default function Selling ({id, goTo, gameMode=0, price, reform}: AuctionP
                         color="bg-red-500"
                         textSize=""
                         onClick={() => {
-                            goTo(false, null)
+                            goTo(false, null, dice)
                         }}
                         altCss="w-full"
                     >Não Vendido😒</Button>

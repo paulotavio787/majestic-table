@@ -15,6 +15,7 @@ import AuctionResult from './pages/auctionResult/auctionResult';
 import Bidder from './pages/bidder/bidder';
 import Reform from './pages/reform/reform';
 import Selling from './pages/selling/selling';
+import Properties from './pages/properties/properties';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -37,6 +38,10 @@ interface Card {
 }
 
 export default function Home() {
+  const [properties, setProperties] = useState<number[]>([])
+  const [dices, setDices] = useState<number[]>([])
+  const [gameModesProperties, setGameModesProperties] = useState<number[]>([])
+  const [sell, setSell] = useState<boolean>(false)
   const [debt, setDebt] = useState<number>(0)
   const [money, setMoney] = useState<number>(1000000)
   const [interest, setInterest] = useState<number>(0)
@@ -50,33 +55,73 @@ export default function Home() {
   const [winningPrice, setWinningPrice] = useState<number | null>(null)
   const [reform, setReform] = useState<boolean>(false)
   const [debts, setDebts] = useState<number[]>([0])
-  useEffect(() => {    
-    if (debt < money) {
-      setDebt(debt - money)
-      setMoney(money - debt)
-    }
-  }, [money])
+  const [debtsMatch, setDebtsMatch] = useState<number[]>([0])
+
   useEffect(() => {
-    console.log("debt: ", debt);
-    debt < 0 && setDebt(0)   
-  }, [debt])
-  useEffect(() => {
-    if (money < 0) {
-      console.log(money);
-      let debtsVar = [...debts, Math.abs(money)]
-      
-      setDebts(debtsVar)
-      console.log("var: ", debtsVar);
-      setMoney(0)
+    if (match > 0 && match % 5 === 0) {
+      setMoney(money + 100000) 
+      setSell(true)
     } else {
-      setDebts(debts.map((item) => item * 1.1))
+      setSell(false)
     }
-    match % 5 === 0 && match > 0 && setMoney(money + 100000)
+    let debtVar = debt
+    debts.length > 1 && debts.map(item => debtVar += item)
+    setDebt(debtVar)
+    if (money < 0) {
+      let debtsVar = [...debts, Math.abs(Math.round(money * 0.1))]
+      setDebts(debtsVar)
+      let debtsMatchVar = [...debtsMatch, match]
+      setDebtsMatch(debtsMatchVar)
+      setDebt(debt + Math.abs(money))
+      setMoney(0)
+    }
   }, [match])
   useEffect(() => {
+    let moneyVar = money
+    let debtsVar = debts
+    let debtsMatchVar = debtsMatch
+    let debtVar = debt
+    console.log("money: ", money);
     console.log("debts: ", debts);
-    setDebt(debts.reduce((total, numero) => total + numero, 0))
+    console.log("debtsMatch: ", debtsMatch);
+    console.log("debt: ", debt);
+    console.log("match: ", match);
+    
+    
+    if (debts.length > 1) {
+      debts.map((item, index) => {
+        if (item > 0) {
+          let totalDebt = (item * 10) + (item * (match - debtsMatch[index] - (debtsMatch.length - 2)))
+          if (money >= totalDebt) {
+            moneyVar -= totalDebt
+            debtsVar = debtsVar.filter((debt, number) => number !== index)
+            console.log(debtsVar);
+            debtsMatchVar = debtsMatchVar.filter((debt, number) => number !== index)
+            debtVar -= totalDebt
+          }
+        }
+      })
+      setMoney(moneyVar)
+      setDebts(debtsVar)
+      setDebtsMatch(debtsMatchVar)
+      setDebt(debtVar)
+      console.log("--------------");
+    }
+  }, [money])
+
+  useEffect(() => {
+    console.log(debts);
   }, [debts])
+  
+  useEffect(() => {
+    console.log("divida: ", debt);
+    console.log("--------------------");
+    
+    if (debt < 0) {
+      setMoney(money + Math.abs(debt))
+      setDebt(0)
+    }
+  }, [debt])
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-start">
@@ -84,6 +129,7 @@ export default function Home() {
       {
         page === "select_journey" && (
           <SelectJourney
+            sell={sell}
             auctioneer={() => {
               setJourney("auctioneer")
               setPage("id")
@@ -92,6 +138,7 @@ export default function Home() {
               setJourney("bidder")
               setPage("id")
             }}
+            goTo={(page) => {setPage("sell")}}
           />)
       }
 
@@ -112,7 +159,6 @@ export default function Home() {
           <Auction 
             numberPlayers={numberPlayers} id={id} 
             goToAuctionResult={(player, price) => {
-              console.log(player);
 
               if (player && price) {
                 setPlayerWinner(player)
@@ -166,15 +212,32 @@ export default function Home() {
 
       {
         page == "selling" && (
-          <Selling id={id} goTo={(win, price) =>{
+          <Selling id={id} goTo={(win, price, dice) =>{
             setMatch(match + 1)
             if (win){
               price && setMoney(money + price)
               setPage("select_journey")
             } else {
+              const varDices = [...dices, dice]
+              setDices(varDices)
+              const varProperties = [...properties, id]
+              setProperties(varProperties)
+              const varGameModeProperties = [...gameModesProperties, historicContext]
+              setGameModesProperties(varGameModeProperties)
               setPage("select_journey")
             }
           }} gameMode={historicContext} price={winningPrice} reform={reform}/>
+        )
+      }
+
+      {
+        page === "sell" && (
+          <Properties gameModeProperties={gameModesProperties} dices={dices} properties={properties} sell={(price, index) => {
+            setMoney(money + price)
+            setProperties(properties.filter((propertie, number) => number !== index))
+            setDices(dices.filter((dice, number) => number !== index))
+            setGameModesProperties(gameModesProperties.filter((gameMode, number) => number !== index))
+          }}/>
         )
       }
     </main>
