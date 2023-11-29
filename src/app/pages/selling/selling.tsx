@@ -16,7 +16,10 @@ export default function Selling ({id, goTo, gameMode=0, price, reform}: AuctionP
     const card = cards.find((item) => item.id === id);
     const [auctionValue, setAuctionValue] = useState<any>(card?.price)
     const[dice, setDice] =useState<number>(0)
-
+    useEffect(() => {
+        dice < 5 && setDice(5)
+        dice > 95 && setDice(95)
+    }, [dice])
     useEffect(() => {
         if(gameMode == 1){
             setAuctionValue(auctionValue * 0.8)
@@ -29,11 +32,10 @@ export default function Selling ({id, goTo, gameMode=0, price, reform}: AuctionP
         }
 
         if (price) {
-            price > auctionValue && setDice(Math.round(50+(((price/auctionValue)-1)*100)))
-            price < auctionValue && setDice(Math.round(50-((1-(price/auctionValue))*100)))
+            price > auctionValue && setDice(Math.round(50-(((price/auctionValue)-1)*100)))
+            price < auctionValue && setDice(Math.round(50+((1-(price/auctionValue))*100)))
             price === auctionValue && setDice(50)
-            dice < 5 && setDice(5)
-            dice > 95 && setDice(95)
+
         }
     }, [])
     return (
